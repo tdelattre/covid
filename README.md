@@ -31,6 +31,6 @@ print("hello world")
 </details>
 
 # Sources
-Manufacturing content https://www.thegauntlet.news/p/how-the-press-manufactured-consent 
+Manufacturing consent https://www.thegauntlet.news/p/how-the-press-manufactured-consent 
 
 
