@@ -16,6 +16,10 @@ Le COVID est une maladie systémique à contagion respiratoire, 50% plus mortell
   ### titre 1
   texte texte
 
+  ```{r setup, include=FALSE}
+print("hello world")
+```
+
 </details>
 
 ## Comment se protéger du COVID
@@ -26,7 +30,7 @@ Le COVID est une maladie systémique à contagion respiratoire, 50% plus mortell
   > Citation
 </details>
 
-### Titre 2
-#### Titre 3
+# Sources
+Manufacturing content https://www.thegauntlet.news/p/how-the-press-manufactured-consent 
 
 
