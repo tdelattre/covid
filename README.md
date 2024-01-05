@@ -14,10 +14,19 @@ Le COVID est une maladie systémique à contagion respiratoire, 50% plus mortell
 
 ### Dangerosité
 
+#### Le COVID est une maladie systémique, affectant tous les organes
+
 Le COVID (tous variants, tous statuts vaccinaux) a un taux de léthalité directe de 8 à 9% supérieur à celui de la grippe.
 Sur 94 indices de santé sélectionnés par le CDC, le COVID en affecte 64 (contre 6 pour la grippe).
-Tous les systèmes d'organes ont plus de chance d'être affectés par le COVID que par la grippe (à l'exception du système pulmonaire, plus affecté par la grippe)
+Tous les systèmes d'organes ont plus de chance d'être affectés par le COVID que par la grippe (à l'exception du système pulmonaire, plus affecté par la grippe).
+Tous risques d'effets délétères sur la santé confondus, le COVID est 45% plus à même d'affecter votre santé que la grippe.
 > Source https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(23)00684-9/fulltext#%20
+
+#### Le COVID dure longtemps
+Le COVID a des effets plus importants sur la santé dans la phase post-aigüe que dans la phase aigüe, comme c'est d'ailleur le cas de la grippe.
+> Source https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(23)00684-9/fulltext#%20
+
+#### Effets sur X
 
 </details>
 
