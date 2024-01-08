@@ -34,10 +34,13 @@ Dans une interview, des chercheurs spécialistes du COVID disent qu'ils continue
 
 </details>
 
-## Le COVID se transmet par l'air
+## 
+
+<details> > <summary> En savoir plus </summary> 
 
 
-https://www.bmj.com/content/378/bmj.o1929
+</details>
+
 
 ## Le COVID est toujours là
 <details> > <summary> En savoir plus </summary> 
@@ -51,12 +54,16 @@ print("hello world")
 
 </details>
 
-## Comment se protéger du COVID
+## Le COVID se transmet par l'air : comment s'en protéger ?
 <details> > <summary> En savoir plus </summary> 
+
+  ### Comment le COVID se transmet et s'attrape
   
-  ### titre 1
-  texte texte
-  > Citation
+Le COVID se transmet en respirant l'air contaminé par une autre personne. Il suffit que celle-ci resipire dans la même pièce que vous. C'est encore pire (mais pas nécessaire) si elle tousse, parle ou chante.
+> https://www.bmj.com/content/378/bmj.o1929
+  
+
+
 </details>
 
 # Sources
