@@ -1,7 +1,7 @@
 # COVID - État des connaissances
 Ce document présente le résultat d'une surveillance des publications ayant trait au "COVID" (le ou la COVID-19, ou Sars-CoV2).
 ## En bref
-Le COVID est une maladie systémique à contagion respiratoire, 50% plus mortelle que la grippe. Avec une vitesse de propagation trois fois supérieure à celle de la rougeole, c'est la maladie la plus rapide au monde. Même une infection en apparence bénigne peut causer des risques de séquelle de long terme sur 64 des 94 mesures de santé répertoriées par le WSWS, et ce risque augmente à chaque infection. Il est possible de s'en protéger et d'en limiter la propagation en renouvelant et en filtrant l'air des lieux partagés, en portant des masques FFP2 ou équivalent. Son risque mortel est significativement diminué par les vaccins disponibles. Laissé hors de contrôle, il cause une pandémie occasionnant des centaines de milliers de morts, une surcharge des systèmes de santé, et des centaines de milliers de personnes souffrant de séquelles débilitantes.
+Le COVID est une maladie systémique, 45% plus dangereuse que la grippe, qui se transmet par l'air. Avec une vitesse de propagation trois fois supérieure à celle de la rougeole, c'est la maladie la plus rapide au monde. Même une infection en apparence bénigne peut causer des séquelles de long terme (cardiaques, vasculaires, cérébrales, 64 risques différents possibles) et ce risque ***augmente*** à chaque infection. Il est possible de s'en protéger et d'en limiter la propagation en renouvelant et en filtrant l'air des lieux partagés, en portant des masques FFP2 ou équivalent. Son risque mortel est significativement diminué par les vaccins disponibles. Laissé hors de contrôle, il cause une pandémie occasionnant des centaines de milliers de morts, une surcharge des systèmes de santé, et des centaines de milliers de personnes souffrant de séquelles débilitantes.
 ## Le COVID est dangereux
 <details> > <summary> En savoir plus </summary> 
   
@@ -22,13 +22,22 @@ Tous les systèmes d'organes ont plus de chance d'être affectés par le COVID q
 Tous risques d'effets délétères sur la santé confondus, le COVID est 45% plus à même d'affecter votre santé que la grippe.
 > Source https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(23)00684-9/fulltext#%20
 
-#### Le COVID dure longtemps
+#### Le COVID dure longtemps : le "COVID long"
 Le COVID a des effets plus importants sur la santé dans la phase post-aigüe que dans la phase aigüe, comme c'est d'ailleur le cas de la grippe.
 > Source https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(23)00684-9/fulltext#%20
+
+Dans une interview, des chercheurs spécialistes du COVID disent qu'ils continuent à se masquer surtout par crainte du COVID long
+> https://www.youtube.com/watch?v=rMt6ZV-hHSE
+
 
 #### Effets sur X
 
 </details>
+
+## Le COVID se transmet par l'air
+
+
+https://www.bmj.com/content/378/bmj.o1929
 
 ## Le COVID est toujours là
 <details> > <summary> En savoir plus </summary> 
