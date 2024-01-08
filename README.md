@@ -69,4 +69,6 @@ Le COVID se transmet en respirant l'air contaminé par une autre personne. Il su
 # Sources
 Manufacturing consent https://www.thegauntlet.news/p/how-the-press-manufactured-consent 
 
+Covid roundup à synthétiser : https://www.patreon.com/posts/pandemic-roundup-95419817
+
 
