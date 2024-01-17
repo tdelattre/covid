@@ -178,8 +178,67 @@ themaskerscomic@forall.social - The percentage of adults experiencing long-term 
 25% after two infections, and
 
 38% with 3 or more infections
+-----------------------
+
+academia_carnet@sciences.re - #AutoDéfenseESR
+
+En cette période de recrudescence du #COVID et en l'absence de toute disposition de prévention du @sup_recherche ou du @dgafp, @academia_carnet rappel l'existence du guide du Collectif Casper en réduction des risques de transmission
+https://academia.hypotheses.org/47539
+
+------------------------------
+
+armeline - Dre Mona Nemer (@SciChefCan): "Même les cas bénins d'infection par le SRAS-CoV-2 risquent de se transformer en covid longue, et ces résultats suggèrent que la menace augmente en cas d'infections multiples. (1/3) https://www150.statcan.gc.ca/n1/pub/75-006-x/2023001/article/00015-fra.htm"; | nitter
+
+https://nitter.d420.de/SciChefCan/status/1733861400102011375#m
+
+------------------------------
+
+cabrioles - Qu'est-ce qui a alimenté la vague de VRS en 2022 ? | John Snow Project
+
+Une grande étude américaine a récemment montré un risque plus élevé de bronchiolite et d'infection par le virus respiratoire syncytial (VRS) après une infection par le COVID-19.
+🔗 https://cabrioles.substack.com/p/quest-ce-qui-a-alimente-la-vague
+
+#AutodéfenseSanitaire #Antivalidisme #MaskUp #CovidIsNotOver 
+
+----------------------------
+
+MatWright@mastodon.social - Every day, every new frightening study increases my fury at the Public Health Covid minimizers who can read the research same as all of us, and stay silent on the damage infections cause.
+
+They are complicit in disabling generations, it's criminal.
+
+"Over 50% of the SARS-CoV-2 exposed infants presented ASQ-3 scores below the expected cutoff, with about half classified with neurodevelopmental delay, mainly at 4 and 12 months,” the authors wrote.
+
+#Covid #Covid19
+
+https://www.cidrap.umn.edu/covid-19/study-shows-infants-exposed-covid-utero-risk-developmental-delay
+
+--------------------------------
+
+whn@forall.social - Is the efficiency of a filter important, or is it the Clean Air Delivery Rate (CADR)?
+
+Alex Siegenfeld explains during our Clean Air Expo that being downstream of a high efficiency (HEPA) filter leads to breathing cleaner air.
+https://www.youtube.com/watch?v=bzFJNiZX0us
+-------------------------------
+erictopol@mstdn.social - A randomized, double-blind. placebo-controlled trial of modulating the gut microbiome is successful for symptom alleviation in Long Covid
+
+https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(23)00685-0/fulltext 
+---------------------------------
+
+arisummerland@mstdn.social - Putting this here so I can find it again.
+
+TL;DR: #COVID fucks up the immune system and AGES your cells. Recovery of vital immune cells can take months, even years. Adults have a LIMITED ABILITY to create new immune cells bc our thymus is atrophied.
+
+Your body does NOT develop immunity to new COVID strains, and “immunity debt” is a MADE-UP TERM that has absolutely NO BASIS in reality or how our immune systems actually work.
+
+https://whn.global/scientific/covid19-immune-dysregulation/
+
+----------------------------------
 
 https://www150.statcan.gc.ca/n1/pub/75-006-x/2023001/article/00015-eng.htm
 --------------------
+erictopol@mstdn.social - "These results robustly demonstrate pronounced cognitive slowing in people with PCC [#LongCovid] which distinguishes them from age-matched healthy individuals who previously had symptomatic COVID-19 but did not manifest Long Covid." https://medrxiv.org/content/10.1101/2023.12.03.23299331v1
+-----------------------
+
+
 
 
