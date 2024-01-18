@@ -238,6 +238,12 @@ https://www150.statcan.gc.ca/n1/pub/75-006-x/2023001/article/00015-eng.htm
 --------------------
 erictopol@mstdn.social - "These results robustly demonstrate pronounced cognitive slowing in people with PCC [#LongCovid] which distinguishes them from age-matched healthy individuals who previously had symptomatic COVID-19 but did not manifest Long Covid." https://medrxiv.org/content/10.1101/2023.12.03.23299331v1
 -----------------------
+https://www.nature.com/articles/d41586-023-04063-6
+contact tracing, risque de contamination en fonction des situations
+------------------------
+démonstration empirique du ralentissement cognifitf chez les malades du covid
+erictopol@mstdn.social - "These results robustly demonstrate pronounced cognitive slowing in people with PCC [#LongCovid] which distinguishes them from age-matched healthy individuals who previously had symptomatic COVID-19 but did not manifest Long Covid." https://medrxiv.org/content/10.1101/2023.12.03.23299331v1
+-----------------------
 
 
 
