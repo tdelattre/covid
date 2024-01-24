@@ -244,6 +244,21 @@ contact tracing, risque de contamination en fonction des situations
 démonstration empirique du ralentissement cognifitf chez les malades du covid
 erictopol@mstdn.social - "These results robustly demonstrate pronounced cognitive slowing in people with PCC [#LongCovid] which distinguishes them from age-matched healthy individuals who previously had symptomatic COVID-19 but did not manifest Long Covid." https://medrxiv.org/content/10.1101/2023.12.03.23299331v1
 -----------------------
+cbarbermd@med-mastodon.com - ⭐️A new study found that >50% of people who recover from COVID-19 have lingering symptoms for as long as 3 years.
+
+⭐️Of Long COVID individuals who were reinfected with omicron, 62% experienced new or worsening symptoms.
+#LongCovid #COVID19 #covid
+https://tinyurl.com/54xuebr7
+-----------------------
+erictopol@mstdn.social - Covid was associated with a marked increase in preterm birth (< 32 weeks of gestation). Vaccination was linked with preventing preterm births. https://pnas.org/doi/epdf/10.1073/pnas.2311573120
+-----------------------
+cbarbermd@med-mastodon.com - Large follow-up studies show that people who have had COVID have ⬆️ risk of ♥️ complications including heart attacks, strokes & arrhythmias. These can occur even in people with mild symptoms or in young, active ppl. Vax, 😷 indoors, improve ventil/filtration, etc & be safe.
+#longcovid #heart #stroke #AHA #COVID #COVID
+
+https://www.heartandstroke.ca/articles/coronavirus-heart-disease-and-stroke
+----------------------
+Brad@zeroes.ca - Published December 1, 2023- “Infectivity of exhaled SARS-CoV-2 aerosols is sufficient to transmit covid-19 within minutes” “This time can be as short as 6 min when a highly infectious individual enters the room or only 1 min if the infected person already has been in the room long enough to reach steady-state concentration of viruses in the air.” - https://www.nature.com/articles/s41598-023-47829-8
+----------------------
 
 
 
