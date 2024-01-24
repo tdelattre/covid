@@ -259,7 +259,39 @@ https://www.heartandstroke.ca/articles/coronavirus-heart-disease-and-stroke
 ----------------------
 Brad@zeroes.ca - Published December 1, 2023- “Infectivity of exhaled SARS-CoV-2 aerosols is sufficient to transmit covid-19 within minutes” “This time can be as short as 6 min when a highly infectious individual enters the room or only 1 min if the infected person already has been in the room long enough to reach steady-state concentration of viruses in the air.” - https://www.nature.com/articles/s41598-023-47829-8
 ----------------------
+proprietedusage@eldritch.cafe - "L'infection par le COVID-19 a plusieurs effets très préoccupants sur le système immunitaire qui pourraient facilement conduire à favoriser d'autres agents pathogènes et à aggraver les conséquences des réinfections par le COVID-19. Ce dysfonctionnement ou vieillissement du système immunitaire est au moins l'un des scénarios les plus probables expliquant les récentes vagues de maladies comme le VRS, la grippe, le streptocoque A et d'autres infections. En revanche, la dette immunitaire n'est pas considérée comme une explication viable, car l'augmentation de ces maladies se poursuit dans les pays qui ont déjà connu des flambées la saison dernière et voient l'immunité diminuer pour bon nombre de ces maladies. Une autre préoccupation sérieuse à ce stade est que les infections répétées par le COVID-19 pourraient conduire à l'épuisement des cellules T CD8+ cytotoxiques, ce qui pourrait avoir des effets en aval sur d'autres maladies comme les cancers, car les cellules T jouent un rôle essentiel dans la limitation de la prolifération tumorale et il a été démontré qu'elles peuvent se différencier et devenir dysfonctionnelles."
 
+https://cabrioles.substack.com/p/covid-19-et-dysregulation-immunitaire?publication_id=850442
+---------------------
+erictopol@mstdn.social - "These results robustly demonstrate pronounced cognitive slowing in people with PCC [#LongCovid] which distinguishes them from age-matched healthy individuals who previously had symptomatic COVID-19 but did not manifest Long Covid." https://medrxiv.org/content/10.1101/2023.12.03.23299331v1
+---------------------
+cabrioles - Qu'est-ce qui a alimenté la vague de VRS en 2022 ? | John Snow Project
+
+Une grande étude américaine a récemment montré un risque plus élevé de bronchiolite et d'infection par le virus respiratoire syncytial (VRS) après une infection par le COVID-19.
+🔗 https://cabrioles.substack.com/p/quest-ce-qui-a-alimente-la-vague
+--------------------
+armeline - Dre Mona Nemer (@SciChefCan): "Même les cas bénins d'infection par le SRAS-CoV-2 risquent de se transformer en covid longue, et ces résultats suggèrent que la menace augmente en cas d'infections multiples. (1/3) https://www150.statcan.gc.ca/n1/pub/75-006-x/2023001/article/00015-fra.htm"; | nitter
+--------------------
+anitaycheng@mastodon.publicinterest.town - An article about masks that they say everybody should read! Masking (even badly) resulted in less incidences of #COVID. Dr. Griffin also goes into a history lecture about #masks and how they were used successfully, and subsequently derided, even in past centuries. https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2811136
+--------------------
+DenisCOVIDinfoguy@aus.social - New study proves that COVID-19 is far more harmful and deadly than the flu.
+
+Dr. Al-Aly wrote, “We observed higher risks of death, healthcare utilization and hits in most organ systems in COVID-19 than the flu. This was evident in pre-Delta, Delta, and Omicron. And also evident in vaccinated and unvaccinated individuals. COVID-19 remain a much more serious threat to human health than the flu.”
+
+He added that the study findings underscore that “COVID-19 is really a multisystemic disease and flu is more of a respiratory virus.
+
+With SAR-CoV-2, a highly infectious non-seasonal pathogen with a robust capacity for further evolution, and for which existing vaccines and prior infections offer very limited immunity, the current global policy of “forever COVID” means that society is being forced to endure multiple annual waves of mass infection, with unknown but far-reaching long-term consequences.
+
+#COVID19 @auscovid19
+
+Source: https://www.wsws.org/en/articles/2023/12/18/covi-d18.html
+----------------------
+nousaerons - "That a pure atmosphere is necessary to preserve health I need not attempt to prove by reasoning; it is a thruth universally known and acknowledged." Thomas Tredgold in 1824.
+
+For 200 years, calculations have been made to define what ventilation should be installed.
+
+More information on History section of https://nousaerons.fr/benchmark/
+https://docs.google.com/spreadsheets/d/1I5slGR5S__B8SKvKf1cWGpIXGFfQUnKM4aTNbK9LUnQ/edit#gid=0
 
 
 
