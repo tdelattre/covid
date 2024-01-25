@@ -293,5 +293,11 @@ For 200 years, calculations have been made to define what ventilation should be 
 More information on History section of https://nousaerons.fr/benchmark/
 https://docs.google.com/spreadsheets/d/1I5slGR5S__B8SKvKf1cWGpIXGFfQUnKM4aTNbK9LUnQ/edit#gid=0
 
+-------------------
+
+erictopol@mstdn.social - Pronounced cognitive slowing in individuals with Long Covid as compared with matched controls using objective testing in a new multicenter report 
+
+https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(24)00013-0/fulltext
+
 
 
