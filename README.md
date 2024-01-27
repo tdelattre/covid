@@ -300,4 +300,7 @@ erictopol@mstdn.social - Pronounced cognitive slowing in individuals with Long C
 https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(24)00013-0/fulltext
 
 
+--------_---------------
 
+mfischman@mamot.fr - Webinaire Winslow Santé Publique : Persistance virale du SARS-Cov-2 dans...
+https://youtube.com/watch?v=8JMviWkEG7o&feature=shared
