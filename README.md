@@ -304,3 +304,13 @@ https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(24)00013-0/fullt
 
 mfischman@mamot.fr - Webinaire Winslow Santé Publique : Persistance virale du SARS-Cov-2 dans...
 https://youtube.com/watch?v=8JMviWkEG7o&feature=shared
+
+----------++++++++++++++++++
+cbarbermd@med-mastodon.com - New cancer diagnoses are expected to exceed 2 million/yr for the 1st time per @AmericanCancer. Many poss reasons for this. I spoke with multiple experts👇including @VirusesImmunity about whether #SARSCoV2 can lead to cancer…
+
+“We don’t have great evidence, but this virus has surprised us over & over.”
+
+https://fortune.com/2023/11/23/inside-long-covids-war-body-researchers-trying-find-out-virus-potential-cancer-carolyn-barber/
+#covid #covid-19
+---------------------+-+
+
