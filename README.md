@@ -316,3 +316,7 @@ https://fortune.com/2023/11/23/inside-long-covids-war-body-researchers-trying-fi
 
 COVID attacks every organs :
 oconnell@texasobserver.social - @tomdelattre of course, you're welcome. The source is this recent Congressional hearing on Long Covid. Click through to the pdf of Dr. Al-Aly's testimony and you will find lots of footnotes with his sources as well. https://www.help.senate.gov/hearings/addressing-long-covid-advancing-research-and-improving-patient-care
+-------------------------
+erictopol@mstdn.social - Important discovery related to LongCovid: Fragments of SARS-CoV-2 virus can reassemble into "zombie" complexes (XenoAMP-dsDNA) and induce a major and sustained immune response, affecting healthy, uninfected cells, not seen with common cold coronaviruses
+
+https://www.pnas.org/doi/10.1073/pnas.2300644120
