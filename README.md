@@ -331,3 +331,11 @@ currentbias@open-source-eschaton.net - David Putrino, one of the world's leading
 https://vimeo.com/909202273
 
 #covid #covid19 #longcovid #SARSCoV2 #pandemic #PublicHealth #CovidIsNotOver
+
+
+----------------
+
+
+cbarbermd@med-mastodon.com - Does vaccination during pregnancy expose baby to ⬆️risk? 
+
+In this large study (94K infants), vaccination of preg women was not associated with ⬆️ risks of adverse events to baby. Researchers found a ⬇️ chance of baby having a brain bleed, hypoxic-ischemic encephalopathy, or death. #vaccines #pregnancy #covid http://tinyurl.com/y4ezupwk
