@@ -320,3 +320,14 @@ oconnell@texasobserver.social - @tomdelattre of course, you're welcome. The sour
 erictopol@mstdn.social - Important discovery related to LongCovid: Fragments of SARS-CoV-2 virus can reassemble into "zombie" complexes (XenoAMP-dsDNA) and induce a major and sustained immune response, affecting healthy, uninfected cells, not seen with common cold coronaviruses
 
 https://www.pnas.org/doi/10.1073/pnas.2300644120
+
+---------------------
+currentbias@open-source-eschaton.net - David Putrino, one of the world's leading long covid researchers, was interviewed by Dana Parish from the Bay Area Lyme Foundation, and it's an incredibly thorough, dense, and digestible conversation. Highlights from David:
+
+* the median age of long covid patients at his clinic (Mount Sinai) is 38
+* viral persistence is indisputable
+* not getting covid remains the only way to prevent long covid
+
+https://vimeo.com/909202273
+
+#covid #covid19 #longcovid #SARSCoV2 #pandemic #PublicHealth #CovidIsNotOver
