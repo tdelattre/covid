@@ -344,3 +344,9 @@ In this large study (94K infants), vaccination of preg women was not associated 
 
 erictopol@mstdn.social - The risk of new-onset dementia after Covid in older adults (age 60+) from a systematic review of 11 studies vs controls is ~60% increased; after severe Covid, a 17-fold increased risk; shows up at 6 months
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4716751 (preprint)
+
+------+-+++++++++
+
+erictopol@mstdn.social - Long Covid in kids: a state of the science review
+
+https://publications.aap.org/pediatrics/article/doi/10.1542/peds.2023-062570/196606/Postacute-Sequelae-of-SARS-CoV-2-in-Children?autologincheck=redirected
