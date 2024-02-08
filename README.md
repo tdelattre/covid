@@ -339,3 +339,8 @@ https://vimeo.com/909202273
 cbarbermd@med-mastodon.com - Does vaccination during pregnancy expose baby to ⬆️risk? 
 
 In this large study (94K infants), vaccination of preg women was not associated with ⬆️ risks of adverse events to baby. Researchers found a ⬇️ chance of baby having a brain bleed, hypoxic-ischemic encephalopathy, or death. #vaccines #pregnancy #covid http://tinyurl.com/y4ezupwk
+
+------------------
+
+erictopol@mstdn.social - The risk of new-onset dementia after Covid in older adults (age 60+) from a systematic review of 11 studies vs controls is ~60% increased; after severe Covid, a 17-fold increased risk; shows up at 6 months
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4716751 (preprint)
