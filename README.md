@@ -352,5 +352,23 @@ erictopol@mstdn.social - Long Covid in kids: a state of the science review
 https://publications.aap.org/pediatrics/article/doi/10.1542/peds.2023-062570/196606/Postacute-Sequelae-of-SARS-CoV-2-in-Children?autologincheck=redirected
 
 ---------------
+ "Excess natural-cause mortality in US counties and its association with reported COVID-19 deaths" https://www.pnas.org/doi/full/10.1073/pnas.2313661121 via https://www.bu.edu/sph/news/articles/2024/new-analysis-reveals-many-excess-deaths-attributed-to-natural-causes-are-actually-uncounted-covid-19-deaths/
+ --------------
+ cbarbermd@med-mastodon.com - Strokes, heart attacks, sudden deaths: Does America understand the long-term risks of catching COVID?
+
+Wrote this ~16 mos. ago, but it’s still relevant today, unfortunately!
+https://fortune.com/2022/10/06/strokes-heart-attacks-sudden-death-america-long-term-risks-catching-covid-carolyn-barber/
+-----------------
+
+erictopol@mstdn.social - Just published at Science
+
+A LongCovid underpinning & potential biomarker
+
+Impressive multicenter, prospective study demonstrates persistent complement activation, pro-clotting + inflammation; severity of symptoms associated with virus reactivation (CMV, EBV)
+
+https://www.science.org/doi/10.1126/science.adg7942
+
+-----------------
+
 
 
