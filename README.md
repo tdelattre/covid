@@ -370,5 +370,20 @@ https://www.science.org/doi/10.1126/science.adg7942
 
 -----------------
 
+erictopol@mstdn.social - Among 67 million people in the UK, consequences of not getting a Covid vaccine, especially among older adults, age 75+:
+Missing 1 shot had a similar risk of severe Covid as missing all 4 shots (2.7 vs 3.1-fold, respectively), emphasizing waned immunity
+https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(23)02467-4/fulltext 
 
+------------------------------
 
+nousaerons - 🇳🇿 To assess the fitness for purpose of your learning environments, we are installing Internal Environment Monitors. These devices help to assess acoustics, lighting, thermal comfort and indoor air quality, which all support better educational outcomes. 
+https://www.education.govt.nz/our-work/changes-in-education/te-haratau/
+
+--------------------------------------
+Young, old, vax'd or unvax'd, every reinfection (mild or severe) places one at risk of developing long Covid issues that may last years. These may include cognitive issues, strokes 🧠 , heart ❤️ attacks, arrhythmias, brain fog, muscle weakness, fatigue, dizziness and the list goes on. Do your best to avoid reinfection with masking, good ventilation, etc…bc we don't have a cure, yet. 
+
+“I wish we lived in a world where getting repeat infections doesn’t matter,"
+NYT article : Is it dangerous to keep getting COVID ?
+https://time.com/6553340/covid-19-reinfection-risk/
+
+-----------------------------------
