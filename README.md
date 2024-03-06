@@ -387,3 +387,6 @@ NYT article : Is it dangerous to keep getting COVID ?
 https://time.com/6553340/covid-19-reinfection-risk/
 
 -----------------------------------
+cbarbermd@med-mastodon.com - A pop-based cohort study shows an increased risk of autoimmune diseases post #COVID  for at least a year. Researchers analyzed databases for >20 M ppl diagnosed with Covid during ‘2020-21. 
+
+https://www.cidrap.umn.edu/covid-19/covid-tied-higher-risk-inflammatory-autoimmune-diseases-1-year. #LongCovid #medtwitter
