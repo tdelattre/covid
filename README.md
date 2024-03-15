@@ -425,4 +425,61 @@ luckytran@med-mastodon.com - Great piece on why Dems should do more on COVID.
 https://newrepublic.com/article/177849/biden-democrats-covid-pandemic-2024
 
 -------------------------------------
+cbarbermd@med-mastodon.com - Young, old, vax'd or unvax'd, every reinfection (mild or severe) places one at risk of developing long Covid issues that may last years. These may include cognitive issues, strokes 🧠 , heart ❤️ attacks, arrhythmias, brain fog, muscle weakness, fatigue, dizziness and the list goes on. Do your best to avoid reinfection with masking, good ventilation, etc…bc we don't have a cure, yet.
+
+“I wish we lived in a world where getting repeat infections doesn’t matter,"
+http://tinyurl.com/2p8p2hhf
+
+--------------------------------------
+
+erictopol@mstdn.social - 2 important large prospective cohort studies of cognitive deficits with Long Covid were just published. I reviewed them in a new Ground Truths post
+
+https://erictopol.substack.com/p/long-covid-and-cognitive-deficits
+
+---------------------------------------
+
+JiminyPanoz - Un nombre conséquent d'études nous montrent que le COVID a un impact conséquent sur le cerveau, et que les conséquences pourraient être autant individuelles que collectives.
+
+https://theconversation.com/mounting-research-shows-that-covid-19-leaves-its-mark-on-the-brain-including-with-significant-drops-in-iq-scores-224216
+
+---------------------------------------
+
+https://toot.aquilenet.fr/@arra/112027411256133108
+arra@toot.aquilenet.fr - Ce bulletin hebdomadaire sera publié tous les samedis, si vous souhaitez nous signaler des articles, vous pouvez nous @ ici ou venir les poster directement sur le serveur Discord, ou par mail (voir notre profil avec tous les liens)
+
+---------------------------------------
+
+DenisCOVIDinfoguy@aus.social - Virus Lingers in Blood Years After Infection | neurosciencenews.com
+
+"SARS-CoV-2, the virus causing COVID-19, can remain in the human body long after the initial infection has subsided, with fragments found in blood for up to 14 months and in tissues for over 2 years"
+
+#COVID19 #SARSCoV2 @auscovid19
+
+Source: https://neurosciencenews.com/long-covid-blood-25724/
+
+---------------------------------------
+
+
+inquiline@union.place - #CDCsays wait until you're *peak contagious* to end isolation:
+https://www.health.com/covid-test-timing-symptoms-8348633
+
+#CovidIsNotOver
+
+---------------------------------------
+
+https://toot.aquilenet.fr/@arra/112067078268904793
+arra@toot.aquilenet.fr - Bulletin de veille hebdomadaire : études scientifiques et articles sur le Covid et  le Covid long
+
+https://www.medpagetoday.com/rheumatology/generalrheumatology/109000
+et
+https://www.acpjournals.org/doi/10.7326/M23-1831
+Étude observationnelle sur 10M de japonais.e.s et 10M de coréen.ne.s ; hausse de 80% des risques de développement de maladies auto-immunes après une infection covid (contre moins de 20% après une grippe)
+voir aussi :
+https://twitter.com/chantz_y/status/1765837555390660778
+2’ vidéo en Anglais, sur le covid comme augmentateur de risque de développer des maladies auto-immunes
+
+1/13
+
+----------------------------------------------
+
 
