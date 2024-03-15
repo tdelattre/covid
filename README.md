@@ -390,3 +390,39 @@ https://time.com/6553340/covid-19-reinfection-risk/
 cbarbermd@med-mastodon.com - A pop-based cohort study shows an increased risk of autoimmune diseases post #COVID  for at least a year. Researchers analyzed databases for >20 M ppl diagnosed with Covid during ‘2020-21. 
 
 https://www.cidrap.umn.edu/covid-19/covid-tied-higher-risk-inflammatory-autoimmune-diseases-1-year. #LongCovid #medtwitter
+
+------------------------------------
+
+anuisance@pouet.chapril.org - Très bonne campagne de prévention contre le Covid de l'association Winslow Santé Publique, qui dit les choses comme elles doivent être dites https://www.youtube.com/watch?v=iH3Ocv3Gt80
+
+------------------------------------
+
+erictopol@mstdn.social - High vaccine protection against moderate and severe Covid in children and teens throughout the pandemic https://acpjournals.org/doi/10.7326/M23-1754?utm_source=cmpnr&utm_campaign=lfa_240109_1&utm_content=1&cmp=1&utm_medium=email
+
+And lower risk of cardiac complications among the vaccinated group during Omicron periods
+
+-----------------------------------
+
+nousaerons - 🇺🇸 The @USGBC explore commissioning options : new building commissioning, existing building commissioning/retro-commissioning and monitoring-based or ongoing commissioning—and associated benefits for HVAC and IAQ on school buildings.
+https://www.usgbc.org/articles/optimizing-school-efficiency-and-iaq-through-commissioning
+
+-----------------------------------
+
+luckytran@med-mastodon.com - New studies suggest COVID variants may cause more severe disease.
+
+Important caveat these are from studies on cells in a lab so we need to see if these observations translate in the real world.
+
+The key takeaway is to not assume variants are becoming weaker. Evolution doesn’t work like that. It’s important to not be complacent and take precautions during this surge.
+
+https://fortune.com/well/2024/01/08/covid-omicron-variants-pirola-ba286-jn1-more-severe-disease-lung-gi-tract-symptoms/
+
+-----------------------------------
+
+luckytran@med-mastodon.com - Great piece on why Dems should do more on COVID.
+
+"This didn’t have to be an all-or-nothing choice. By framing Covid precautions as either “lockdown” or “a free for all,” the Biden administration has missed an opportunity to better protect its citizens & send clearer messages around Covid & the risk of long Covid, & promote the kind of commonsense mitigations that create no significant disruptions to “normal” life. With the 2024 election coming up, it must do better."
+
+https://newrepublic.com/article/177849/biden-democrats-covid-pandemic-2024
+
+-------------------------------------
+
