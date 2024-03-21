@@ -482,4 +482,8 @@ https://twitter.com/chantz_y/status/1765837555390660778
 
 ----------------------------------------------
 
+chargrille@progressives.social - "Those who already have #LongCovid may experience a resurgence or worsening of symptoms with new infections. One study found that 80% of patients reported their symptoms were more severe with reinfection."
+
+CDC telling us to go into public while still testing positive for #SARSCOV2 is "very irresponsible advice, & it just doesn’t follow the science...we rely on government officials to interpret & present science to us...& right now, they’re failing in their responsibility to us,” said Putrino
+https://progressives.social/@chargrille/112109885198162922
 
