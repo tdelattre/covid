@@ -487,3 +487,47 @@ chargrille@progressives.social - "Those who already have #LongCovid may experien
 CDC telling us to go into public while still testing positive for #SARSCOV2 is "very irresponsible advice, & it just doesn’t follow the science...we rely on government officials to interpret & present science to us...& right now, they’re failing in their responsibility to us,” said Putrino
 https://progressives.social/@chargrille/112109885198162922
 
+
+
+flyspinner@mastodon.nz - Not 👏Brain 👏Fog👏
+This is a photo of a neuron exploding with #SARSCoV2.
+This is Brain Damage.
+
+https://mastodon.nz/@flyspinner/112692709578401738
+
+
+erictopol@mstdn.social - A huge study of #LongCovid in South Korea and Japan
+shows a pronounced increase of Guillain-Barré syndrome, cognitive deficit, insomnia, anxiety disorder, encephalitis, ischemic stroke and mood disorder. Reduced by vaccination
+https://nature.com/articles/s41562-024-01895-8
+
+
+EricCarroll@zeroes.ca - There is no sign of #SarsCoV2 mutation rate slowing down.
+
+The march upwards in Immune Escape & ACE2 binding strength continues.
+
+There is no sign #SARS2 is running out of evolutionary space.
+
+🧵@TRyanGregory
+ https://threadreaderapp.com/thread/1801997622376354200.html
+ ![alt text]([http://url/to/img.png]
+ 
+ (https://media.zeroes.ca/media_attachments/files/112/624/453/362/925/196/original/d09a4c8743364ad1.png))
+
+ https://zeroes.ca/@EricCarroll/112624458802300718
+
+ --------------------------------------------------------------------------------------------
+
+ énorme compilation de données de l'ARRA  https://toot.aquilenet.fr/@arra/112579767243232787
+
+ arra@toot.aquilenet.fr - Bulletin de veille samedi 8 juin 2024
+
+Partie 1 : Réduction des risques, masques, vaccins, qualité de l’air
+Un point sur les tests :
+Comparatif de l'efficacité des types de tests aux USA. Un test antigénique a 28% de fiabilité. Un 2e AG après 48h a 63% de fiabilité. Les tests moléculaires présentent entre 89% (Lucira) et 98% (PlusLife) de fiabilité.
+https://x.com/clean_air_club_/status/1796017532693827791
+Sources :
+https://virus.sucks/pluslife_en/
+https://web.archive.org/web/20231017215248/https://www.fda.gov/media/172392/download
+https://clinicaltrials.gov/study/NCT06141824
+
+1/58 
