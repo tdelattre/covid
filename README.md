@@ -536,11 +536,28 @@ https://clinicaltrials.gov/study/NCT06141824
 "Advocate for improved air quality standards. The most important place to do this is the schools."
 
 THIS.
-
-https://www.ineteconomics.org/perspectives
+[
+https://www.ineteconomics.org/perspectives](https://www.ineteconomics.org/perspectives/blog/from-long-covid-odds-to-lost-iq-points-ongoing-threats-you-dont-know-about)
 
 ------------------------------------------------------------------------------------------------
 
+erictopol@mstdn.social - "SARS-CoV-2 infection should be considered as a risk factor for Alzheimer’s disease, even though the distinction between causation versus disease acceleration is not clear. “
 
+https://www.thelancet.com/journals/laneur/article/PIIS1474-4422(24)00178-9/abstract 
 
 1/58 
+
+erictopol@mstdn.social - The story of frequent persistence of SARS-CoV-2 in multiple organs after mild Covid keeps getting stronger, and correlates (odds ratio >5) with symptoms of Long Covid
+
+https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(24)00171-3/fulltext?dgcid=raven_jbs_aip_email 
+
+
+erictopol@mstdn.social - The gut microbiome predicts Long Covid
+[https://www.cell.com/cell-host-microbe/abstract/S1931-3128(24)00122-7 ](https://www.cell.com/cell-host-microbe/abstract/S1931-3128(24)00122-7)
+
+
+nousaerons - A multi-disciplinary collaboration of international experts mandated by the World Health Organization led to the design of a Airborne Risk Indoor Online Calculator. Considerable work has gone into developing a model. An explanatory document is available.
+https://partnersplatform.who.int/aria
+https://iris.who.int/handle/10665/376346
+
+
