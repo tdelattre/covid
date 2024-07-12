@@ -530,4 +530,17 @@ https://virus.sucks/pluslife_en/
 https://web.archive.org/web/20231017215248/https://www.fda.gov/media/172392/download
 https://clinicaltrials.gov/study/NCT06141824
 
+
+-----------------------------------------------------------------------------------------------
+
+"Advocate for improved air quality standards. The most important place to do this is the schools."
+
+THIS.
+
+https://www.ineteconomics.org/perspectives
+
+------------------------------------------------------------------------------------------------
+
+
+
 1/58 
