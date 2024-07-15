@@ -20,7 +20,9 @@ Le COVID est une maladie systémique, 45% plus dangereuse que la grippe, qui se 
 #### Mortalité directe (morts "du COVID")
 <details> > <summary> En savoir plus </summary>
 Le COVID (tous variants, tous statuts vaccinaux) a un taux de léthalité directe de 8 à 9% supérieur à celui de la grippe. Ce taux de léthalité directe ne prend pas en compte les effets secondaires, qui sont nombreux et fréquents (cf. plus bas)
-> Source https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(23)00684-9/fulltext#%20
+
+  > Source https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(23)00684-9/fulltext#%20
+
 </details>
 
 #### Le COVID est une maladie systémique, affectant tous les organes
@@ -28,22 +30,38 @@ Le COVID (tous variants, tous statuts vaccinaux) a un taux de léthalité direct
 Sur 94 indices de santé sélectionnés par le CDC, le COVID en affecte 64 (contre 6 pour la grippe).
 Tous les systèmes d'organes ont plus de chance d'être affectés par le COVID que par la grippe (à l'exception du système pulmonaire, plus affecté par la grippe).
 Tous risques d'effets délétères sur la santé confondus, le COVID est 45% plus à même d'affecter votre santé que la grippe.
+  
 > Source https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(23)00684-9/fulltext#%20
+
+Le virus persiste pendant très longtemps dans de multiples organes, et cette persistence semble être corrélée aux symptômes du COVID long
+
+> https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(24)00171-3/fulltext?dgcid=raven_jbs_aip_email
+
 </details>
 
 #### Le COVID dure longtemps : le "COVID long"
 
 <details> > <summary> En savoir plus </summary> 
 Le COVID a des effets plus importants sur la santé dans la phase post-aigüe que dans la phase aigüe, comme c'est d'ailleur le cas de la grippe.
+  
 > Source https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(23)00684-9/fulltext#%20
 
-Dans une interview, des chercheurs spécialistes du COVID disent qu'ils continuent à se masquer ***surtout par crainte du COVID long***
+Dans une interview, des chercheurs spécialistes du COVID disent qu'ils continuent à se masquer surtout par crainte du COVID long
 > https://www.youtube.com/watch?v=rMt6ZV-hHSE
+
+Le virus persiste pendant très longtemps dans de multiples organes, et cette persistence semble être corrélée aux symptômes du COVID long
+
+> https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(24)00171-3/fulltext?dgcid=raven_jbs_aip_email 
 
 </details>
 
 #### Effets sur le cerveau et les capacités intellectuelles
 <details> > <summary> En savoir plus </summary> 
+
+Une infection par le SARS-CoV-2 augmente le risque de maladie neurodégénérative, et devrait être considéré comme un facteur de risque de la maladie d'Alzheimer, bien que la distinction entre cause et accelération de la maladie manque encore de clarté
+
+> https://www.thelancet.com/journals/laneur/article/PIIS1474-4422(24)00178-9/abstract 
+
 
 </details>
 
@@ -99,6 +117,8 @@ Un outil permettant de calculer le risque de contagion pour un lieu ou un évèn
 La couverture journalistique globale du COVID est au mieux, extrèmement partielle et erronée, et dans l'ensemble, positivement mensongère
 > https://www.thegauntlet.news/p/how-the-press-manufactured-consent 
 
+Une interview de médecin couvrant correctement et clairement la plupart des sujets, mais ne donnant pas de sources
+> https://www.ineteconomics.org/perspectives/blog/from-long-covid-odds-to-lost-iq-points-ongoing-threats-you-dont-know-about
 
 # Sources
 
@@ -563,29 +583,6 @@ Sources :
 https://virus.sucks/pluslife_en/
 https://web.archive.org/web/20231017215248/https://www.fda.gov/media/172392/download
 https://clinicaltrials.gov/study/NCT06141824
-
-
------------------------------------------------------------------------------------------------
-
-"Advocate for improved air quality standards. The most important place to do this is the schools."
-
-THIS.
-[
-https://www.ineteconomics.org/perspectives](https://www.ineteconomics.org/perspectives/blog/from-long-covid-odds-to-lost-iq-points-ongoing-threats-you-dont-know-about)
-
-------------------------------------------------------------------------------------------------
-
-erictopol@mstdn.social - "SARS-CoV-2 infection should be considered as a risk factor for Alzheimer’s disease, even though the distinction between causation versus disease acceleration is not clear. “
-
-https://www.thelancet.com/journals/laneur/article/PIIS1474-4422(24)00178-9/abstract 
-
-1/58 
-
-erictopol@mstdn.social - The story of frequent persistence of SARS-CoV-2 in multiple organs after mild Covid keeps getting stronger, and correlates (odds ratio >5) with symptoms of Long Covid
-
-https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(24)00171-3/fulltext?dgcid=raven_jbs_aip_email 
-
-
 
 
 
