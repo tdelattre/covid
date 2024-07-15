@@ -1,6 +1,8 @@
 # COVID - État des connaissances
 Ce document présente le résultat d'une surveillance des publications ayant trait au "COVID" (le ou la COVID-19, ou Sars-CoV2).
-## En bref
+## En bref 
+> [sources à retrouver dans les chapitres en dessous]
+
 Le COVID est une maladie systémique, 45% plus dangereuse que la grippe, qui se transmet par l'air. Avec une vitesse de propagation trois fois supérieure à celle de la rougeole, c'est la maladie la plus rapide au monde. Même une infection en apparence bénigne peut causer des séquelles de long terme (cardiaques, vasculaires, cérébrales, 64 risques différents possibles) et ce risque ***augmente*** à chaque infection. Il est possible de s'en protéger et d'en limiter la propagation en renouvelant et en filtrant l'air des lieux partagés, en portant des masques FFP2 ou équivalent. Son risque mortel est significativement diminué par les vaccins disponibles, mais ces vaccins ne sont pas disponibles pour tous.tes. Laissé hors de contrôle, même avec une campagne vaccinale efficace, il cause une pandémie occasionnant des centaines de milliers de morts, une surcharge des systèmes de santé, et des centaines de milliers de personnes souffrant de séquelles débilitantes.
 
 ## Les dangers du COVID
@@ -39,7 +41,7 @@ Le virus persiste pendant très longtemps dans de multiples organes, et cette pe
 
 </details>
 
-#### Le COVID dure longtemps : le "COVID long"
+#### Durée de persistence des symptômes, "COVID long"
 
 <details> > <summary> En savoir plus </summary> 
 Le COVID a des effets plus importants sur la santé dans la phase post-aigüe que dans la phase aigüe, comme c'est d'ailleur le cas de la grippe.
@@ -85,7 +87,7 @@ Le microbiome intestinal semble être un facteur permettant de prédire le risqu
 
 </details>
 
-## Le COVID est toujours là
+## Où en est la pandémie de COVID ?
 <details> > <summary> En savoir plus </summary> 
 
   En France, l'évolution de la pandémie est suivi via l'analyse de la présence de virus dans les eaux usées. Ces résultats peuvent être consultés en "temps réel" (par pas d'une semaine) ici :
@@ -93,7 +95,7 @@ Le microbiome intestinal semble être un facteur permettant de prédire le risqu
 
 </details>
 
-## Le COVID se transmet par l'air : comment s'en protéger ?
+## Modes de transmission du COVID et méthodes de prévention
 <details> > <summary> En savoir plus </summary> 
 
   ### Comment le COVID se transmet et s'attrape
