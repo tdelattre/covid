@@ -1,56 +1,70 @@
 # COVID - État des connaissances
 Ce document présente le résultat d'une surveillance des publications ayant trait au "COVID" (le ou la COVID-19, ou Sars-CoV2).
 ## En bref
-Le COVID est une maladie systémique, 45% plus dangereuse que la grippe, qui se transmet par l'air. Avec une vitesse de propagation trois fois supérieure à celle de la rougeole, c'est la maladie la plus rapide au monde. Même une infection en apparence bénigne peut causer des séquelles de long terme (cardiaques, vasculaires, cérébrales, 64 risques différents possibles) et ce risque ***augmente*** à chaque infection. Il est possible de s'en protéger et d'en limiter la propagation en renouvelant et en filtrant l'air des lieux partagés, en portant des masques FFP2 ou équivalent. Son risque mortel est significativement diminué par les vaccins disponibles. Laissé hors de contrôle, il cause une pandémie occasionnant des centaines de milliers de morts, une surcharge des systèmes de santé, et des centaines de milliers de personnes souffrant de séquelles débilitantes.
-## Le COVID est dangereux
-<details> > <summary> En savoir plus </summary> 
+Le COVID est une maladie systémique, 45% plus dangereuse que la grippe, qui se transmet par l'air. Avec une vitesse de propagation trois fois supérieure à celle de la rougeole, c'est la maladie la plus rapide au monde. Même une infection en apparence bénigne peut causer des séquelles de long terme (cardiaques, vasculaires, cérébrales, 64 risques différents possibles) et ce risque ***augmente*** à chaque infection. Il est possible de s'en protéger et d'en limiter la propagation en renouvelant et en filtrant l'air des lieux partagés, en portant des masques FFP2 ou équivalent. Son risque mortel est significativement diminué par les vaccins disponibles, mais ces vaccins ne sont pas disponibles pour tous.tes. Laissé hors de contrôle, même avec une campagne vaccinale efficace, il cause une pandémie occasionnant des centaines de milliers de morts, une surcharge des systèmes de santé, et des centaines de milliers de personnes souffrant de séquelles débilitantes.
+
+## Les dangers du COVID
+
   
   ### Contagiosité
-  
+  <details> > <summary> En savoir plus </summary> 
   Le COVID (variant Omicron) est la maladie à la vitesse de propagation la plus rapide connue de l'homme à cause d'un taux de reproduction très élevé (R=5, celui de la Rougeole est de R=15) et d'un temps de génération très court (<5j, celui de la rougeole 15j). 
   
   > Source https://twitter.com/JPWeiland/status/1473848483593728006
-> 
 
-### Dangerosité
+</details>
+
+### Effets sur la santé
+<details> > <summary> En savoir plus </summary> 
+
+#### Mortalité directe (morts "du COVID")
+<details> > <summary> En savoir plus </summary>
+Le COVID (tous variants, tous statuts vaccinaux) a un taux de léthalité directe de 8 à 9% supérieur à celui de la grippe. Ce taux de léthalité directe ne prend pas en compte les effets secondaires, qui sont nombreux et fréquents (cf. plus bas)
+> Source https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(23)00684-9/fulltext#%20
+</details>
 
 #### Le COVID est une maladie systémique, affectant tous les organes
-
-Le COVID (tous variants, tous statuts vaccinaux) a un taux de léthalité directe de 8 à 9% supérieur à celui de la grippe.
+<details> > <summary> En savoir plus </summary> 
 Sur 94 indices de santé sélectionnés par le CDC, le COVID en affecte 64 (contre 6 pour la grippe).
 Tous les systèmes d'organes ont plus de chance d'être affectés par le COVID que par la grippe (à l'exception du système pulmonaire, plus affecté par la grippe).
 Tous risques d'effets délétères sur la santé confondus, le COVID est 45% plus à même d'affecter votre santé que la grippe.
 > Source https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(23)00684-9/fulltext#%20
+</details>
 
 #### Le COVID dure longtemps : le "COVID long"
+
+<details> > <summary> En savoir plus </summary> 
 Le COVID a des effets plus importants sur la santé dans la phase post-aigüe que dans la phase aigüe, comme c'est d'ailleur le cas de la grippe.
 > Source https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(23)00684-9/fulltext#%20
 
-Dans une interview, des chercheurs spécialistes du COVID disent qu'ils continuent à se masquer surtout par crainte du COVID long
+Dans une interview, des chercheurs spécialistes du COVID disent qu'ils continuent à se masquer ***surtout par crainte du COVID long***
 > https://www.youtube.com/watch?v=rMt6ZV-hHSE
 
-
-#### Effets sur X
-
 </details>
 
-## 
-
+#### Effets sur le cerveau et les capacités intellectuelles
 <details> > <summary> En savoir plus </summary> 
 
+</details>
+
+#### Effets sur le système cardiovasculaire
+<details> > <summary> En savoir plus </summary> 
 
 </details>
 
+#### Effets sur le système immunitaire
+<details> > <summary> En savoir plus </summary> 
+
+</details>
+
+
+</details>
 
 ## Le COVID est toujours là
 <details> > <summary> En savoir plus </summary> 
-  
-  ### titre 1
-  texte texte
 
-  ```{r setup, include=FALSE}
-print("hello world")
-```
+  En France, l'évolution de la pandémie est suivi via l'analyse de la présence de virus dans les eaux usées. Ces résultats peuvent être consultés en "temps réel" (par pas d'une semaine) ici :
+  > https://tdelattre.shinyapps.io/SUMEau/
 
 </details>
 
@@ -59,15 +73,20 @@ print("hello world")
 
   ### Comment le COVID se transmet et s'attrape
   
-Le COVID se transmet en respirant l'air contaminé par une autre personne. Il suffit que celle-ci resipire dans la même pièce que vous. C'est encore pire (mais pas nécessaire) si elle tousse, parle ou chante.
+Le COVID se transmet en respirant l'air contaminé par une autre personne. Il suffit que celle-ci respire dans la même pièce que vous. C'est encore pire si elle tousse, parle, chante, ou pratique un exercice physique (tout ce qui augmente l'activité respiratoire) mais la respiration suffit.
 > https://www.bmj.com/content/378/bmj.o1929
   
 
 
 </details>
 
-# Sources
+## Couverture journalistique de la Pandémie
+
 Manufacturing consent https://www.thegauntlet.news/p/how-the-press-manufactured-consent 
+
+
+# Sources
+
 
 Covid roundup à synthétiser : https://www.patreon.com/posts/pandemic-roundup-95419817
 
