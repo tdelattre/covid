@@ -99,35 +99,35 @@ Le microbiome intestinal semble être un facteur permettant de prédire le risqu
 <details> > <summary> En savoir plus </summary> 
 
   ### Comment le COVID se transmet et s'attrape
-  
+  <details> > <summary> En savoir plus </summary> 
 Le COVID se transmet en respirant l'air contaminé par une autre personne. Il suffit que celle-ci respire dans la même pièce que vous. C'est encore pire si elle tousse, parle, chante, ou pratique un exercice physique (tout ce qui augmente l'activité respiratoire) mais la respiration suffit.
 > https://www.bmj.com/content/378/bmj.o1929
-  
+  </details>
 
 ### Méthodes de prévention
-
+<details> > <summary> En savoir plus </summary> 
 Un outil permettant de calculer le risque de contagion pour un lieu ou un évènement donné, en fonction des mesures appliquées. Outil développé par un panel international d'experts mandatés par l'OMS. 
 > https://partnersplatform.who.int/aria
 > https://iris.who.int/handle/10665/376346
 
-
+</details>
 
 </details>
 
-## Couverture journalistique de la Pandémie
-
+## Couverture journalistique de la pandémie
+<details> > <summary> En savoir plus </summary> 
 La couverture journalistique globale du COVID est au mieux, extrèmement partielle et erronée, et dans l'ensemble, positivement mensongère
 > https://www.thegauntlet.news/p/how-the-press-manufactured-consent 
 
 Une interview de médecin couvrant correctement et clairement la plupart des sujets, mais ne donnant pas de sources
 > https://www.ineteconomics.org/perspectives/blog/from-long-covid-odds-to-lost-iq-points-ongoing-threats-you-dont-know-about
 
+</details>
+
 # Sources
 
 
 Covid roundup à synthétiser : https://www.patreon.com/posts/pandemic-roundup-95419817
-
-# [TODO] à compiler
 
 Protection du vaccin contre le covid long chez les enfants https://publications.aap.org/pediatrics/article/doi/10.1542/peds.2023-064446/196419/Vaccine-Effectiveness-Against-Long-COVID-in?searchresult=1?autologincheck=redirected
 
