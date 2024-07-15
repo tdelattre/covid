@@ -58,6 +58,13 @@ Dans une interview, des chercheurs spécialistes du COVID disent qu'ils continue
 </details>
 
 
+### Qui est affecté par le COVID ?
+
+#### COVID long
+
+Le microbiome intestinal semble être un facteur permettant de prédire le risque de COVID long
+> [https://www.cell.com/cell-host-microbe/abstract/S1931-3128(24)00122-7 ](https://www.cell.com/cell-host-microbe/abstract/S1931-3128(24)00122-7)
+
 </details>
 
 ## Le COVID est toujours là
@@ -77,12 +84,20 @@ Le COVID se transmet en respirant l'air contaminé par une autre personne. Il su
 > https://www.bmj.com/content/378/bmj.o1929
   
 
+### Méthodes de prévention
+
+Un outil permettant de calculer le risque de contagion pour un lieu ou un évènement donné, en fonction des mesures appliquées. Outil développé par un panel international d'experts mandatés par l'OMS. 
+> https://partnersplatform.who.int/aria
+> https://iris.who.int/handle/10665/376346
+
+
 
 </details>
 
 ## Couverture journalistique de la Pandémie
 
-Manufacturing consent https://www.thegauntlet.news/p/how-the-press-manufactured-consent 
+La couverture journalistique globale du COVID est au mieux, extrèmement partielle et erronée, et dans l'ensemble, positivement mensongère
+> https://www.thegauntlet.news/p/how-the-press-manufactured-consent 
 
 
 # Sources
@@ -571,12 +586,9 @@ erictopol@mstdn.social - The story of frequent persistence of SARS-CoV-2 in mult
 https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(24)00171-3/fulltext?dgcid=raven_jbs_aip_email 
 
 
-erictopol@mstdn.social - The gut microbiome predicts Long Covid
-[https://www.cell.com/cell-host-microbe/abstract/S1931-3128(24)00122-7 ](https://www.cell.com/cell-host-microbe/abstract/S1931-3128(24)00122-7)
 
 
-nousaerons - A multi-disciplinary collaboration of international experts mandated by the World Health Organization led to the design of a Airborne Risk Indoor Online Calculator. Considerable work has gone into developing a model. An explanatory document is available.
-https://partnersplatform.who.int/aria
-https://iris.who.int/handle/10665/376346
+
+
 
 
