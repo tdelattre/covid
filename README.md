@@ -10,9 +10,16 @@ Le COVID est une maladie systémique, 45% plus dangereuse que la grippe, qui se 
   
   ### Contagiosité
   <details> > <summary> En savoir plus </summary> 
+    
+«La contagiosité des aérosols de SRAS-CoV-2 exhalés est suffisante pour transmettre le covid-19 en quelques minutes» «Ce temps peut être aussi court que 6 min lorsqu'un individu hautement infectieux pénètre dans la pièce ou seulement 1 min si la personne infectée a déjà été dans la pièce suffisamment longtemps pour que la concentration de virus dans l'air atteigne la saturation.»
+
+> https://www.nature.com/articles/s41598-023-47829-8
+
+    
   Le COVID (variant Omicron) est la maladie à la vitesse de propagation la plus rapide connue de l'homme à cause d'un taux de reproduction très élevé (R=5, celui de la Rougeole est de R=15) et d'un temps de génération très court (<5j, celui de la rougeole 15j). 
   
   > Source https://twitter.com/JPWeiland/status/1473848483593728006
+
 
 </details>
 
@@ -38,6 +45,12 @@ Tous risques d'effets délétères sur la santé confondus, le COVID est 45% plu
 Le virus persiste pendant très longtemps dans de multiples organes, et cette persistence semble être corrélée aux symptômes du COVID long
 
 > https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(24)00171-3/fulltext?dgcid=raven_jbs_aip_email
+
+Une étude qui prouve que le COVID-19 est beaucoup plus nocif et mortel que la grippe.
+Dr. Al-Aly a écrit: «Nous avons observé des risques plus élevés de décès, d’utilisation des soins de santé et d'atteinte dans la plupart des systèmes d’organes dans la COVID-19 que dans la grippe. Cela était évident pour les variants pré-Delta, Delta et l'Omicron. Et aussi évident chez les sujets vaccinés et non vaccinés. Le COVID-19 reste une menace beaucoup plus grave pour la santé humaine que la grippe. »
+Il a ajouté que les résultats de l'étude soulignent que «COVID-19 est vraiment une maladie multisystémique et que la grippe est plutôt un virus respiratoire.
+
+> Source: https://www.wsws.org/en/articles/2023/12/18/covi-d18.html
 
 </details>
 
@@ -98,11 +111,16 @@ Les enfants exposés au COVID-19 in utero risquent un retard neurodéveloppement
 «Ces résultats démontrent de manière robuste un ralentissement cognitif sévère chez les personnes atteintes de Covid long.»
 
 > https://medrxiv.org/content/10.1101/2023.12.03.23299331v1
+> https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(24)00013-0/fulltext
+
 
 </details>
 
 #### Effets sur le système cardiovasculaire
 <details> > <summary> En savoir plus </summary> 
+
+De vastes études de suivi montrent que les personnes atteintes de COVID ont vu augmenter leur risque de complications cardiaques, y compris les crises cardiaques, les accidents vasculaires cérébraux et les arythmies. Ceux-ci peuvent survenir même chez les personnes présentant des symptômes légers ou chez les personnes jeunes et actives.
+https://www.heartandstroke.ca/articles/coronavirus-heart-disease-and-stroke
 
 </details>
 
@@ -117,6 +135,11 @@ Une grande étude américaine a montré un risque plus élevé de bronchiolite e
 
 > https://cabrioles.substack.com/p/quest-ce-qui-a-alimente-la-vague
 
+
+"L'infection par le COVID-19 a plusieurs effets très préoccupants sur le système immunitaire qui pourraient facilement conduire à favoriser d'autres agents pathogènes et à aggraver les conséquences des réinfections par le COVID-19. Ce dysfonctionnement ou vieillissement du système immunitaire est au moins l'un des scénarios les plus probables expliquant les récentes vagues de maladies comme le VRS, la grippe, le streptocoque A et d'autres infections. En revanche, la dette immunitaire n'est pas considérée comme une explication viable, car l'augmentation de ces maladies se poursuit dans les pays qui ont déjà connu des flambées la saison dernière et voient l'immunité diminuer pour bon nombre de ces maladies. Une autre préoccupation sérieuse à ce stade est que les infections répétées par le COVID-19 pourraient conduire à l'épuisement des cellules T CD8+ cytotoxiques, ce qui pourrait avoir des effets en aval sur d'autres maladies comme les cancers, car les cellules T jouent un rôle essentiel dans la limitation de la prolifération tumorale et il a été démontré qu'elles peuvent se différencier et devenir dysfonctionnelles."
+
+> https://cabrioles.substack.com/p/covid-19-et-dysregulation-immunitaire?publication_id=850442
+
 </details>
 
 
@@ -129,6 +152,17 @@ Un essai randomisé, en double aveugle, contrôle versus placebo, montre que mod
 
 Le microbiome intestinal semble être un facteur permettant de prédire le risque de COVID long
 > [https://www.cell.com/cell-host-microbe/abstract/S1931-3128(24)00122-7 ](https://www.cell.com/cell-host-microbe/abstract/S1931-3128(24)00122-7)
+
+</details>
+
+
+#### Autres effets
+<details> > <summary> En savoir plus </summary> 
+  
+Le Covid provoque des naissances prématurées (< 32 semaines de gestation). La vaccination prévient cet effet, apparemment de manière spectaculaire
+
+> https://pnas.org/doi/epdf/10.1073/pnas.2311573120
+
 
 </details>
 
@@ -162,6 +196,10 @@ Ferretti et al. étudient la corrélation entre la quantité de temps passé ave
     
 > https://www.nature.com/articles/d41586-023-04063-6
 
+«La contagiosité des aérosols de SRAS-CoV-2 exhalés est suffisante pour transmettre le covid-19 en quelques minutes» «Ce temps peut être aussi court que 6 min lorsqu'un individu hautement infectieux pénètre dans la pièce ou seulement 1 min si la personne infectée a déjà été dans la pièce suffisamment longtemps pour que la concentration de virus dans l'air atteigne la saturation.»
+
+> https://www.nature.com/articles/s41598-023-47829-8
+
   </details>
 
 ### Méthodes de prévention
@@ -180,21 +218,37 @@ Guide du Collectif Casper pour la réduction des risques de transmission
 
 > https://www.cidrap.umn.edu/covid-19/covid-study-40-children-still-infectious-after-symptom-resolution
 
-
+#### Vaccination
 
 La vaccination des enfants permet une protection modérée contre le le covid long (35 à 42%) 
 
 > https://publications.aap.org/pediatrics/article/doi/10.1542/peds.2023-064446/196419/Vaccine-Effectiveness-Against-Long-COVID-in?searchresult=1?autologincheck=redirected
+
+#### Masques 
 
 Des scientifiques et médecins qui étudient le COVID disebt qu'ils continuent à se protéger du COVID et à porter le masque, et expliquent pourquoi
 
 > https://aus.social/@DenisCOVIDinfoguy/111604132349988991
 > https://www.youtube.com/watch?v=rMt6ZV-hHSE
 
-#### Filtration de l'air
+Une revue de la littérature révèle de nombreuses études observationnelles de haute qualité démontrant l'association de l'utilisation des masques faciaux dans la communauté et des obligation de masques avec une réduction de la propagation du SARS-CoV-2. 
+Des données robustes étayent l'utilisation de masques faciaux dans les lieux partagés pour réduire la transmission du SARS-CoV-2 et devraient éclairer les réponses futures aux épidémies et pandémies causées par les virus respiratoires.
+
+> https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2811136
+
+
+#### Filtration et renouvellement de l'air
 
 Pour choisir un filtre, si un compromis est nécessaire, mieux vaut viser un grand CADR (quantité d'air nettoyé) qu'une finesse de filtration importante.
-https://www.youtube.com/watch?v=bzFJNiZX0us
+
+> https://www.youtube.com/watch?v=bzFJNiZX0us
+
+
+"That a pure atmosphere is necessary to preserve health I need not attempt to prove by reasoning; it is a thruth universally known and acknowledged." Thomas Tredgold in 1824.
+Depuis 200 ans, des calculs ont été effectués pour définir la ventilation nécessaire dans les locaux partagés.
+
+> More information on History section of https://nousaerons.fr/benchmark/
+> https://docs.google.com/spreadsheets/d/1I5slGR5S__B8SKvKf1cWGpIXGFfQUnKM4aTNbK9LUnQ/edit#gid=0
 
 </details>
 
@@ -225,62 +279,6 @@ Une interview de médecin couvrant correctement et clairement la plupart des suj
 
 Covid roundup à synthétiser : https://www.patreon.com/posts/pandemic-roundup-95419817
 
-
-
------------------------
-cbarbermd@med-mastodon.com - ⭐️A new study found that >50% of people who recover from COVID-19 have lingering symptoms for as long as 3 years.
-
-
-⭐️Of Long COVID individuals who were reinfected with omicron, 62% experienced new or worsening symptoms.
-#LongCovid #COVID19 #covid
-https://tinyurl.com/54xuebr7
------------------------
-erictopol@mstdn.social - Covid was associated with a marked increase in preterm birth (< 32 weeks of gestation). Vaccination was linked with preventing preterm births. https://pnas.org/doi/epdf/10.1073/pnas.2311573120
------------------------
-cbarbermd@med-mastodon.com - Large follow-up studies show that people who have had COVID have ⬆️ risk of ♥️ complications including heart attacks, strokes & arrhythmias. These can occur even in people with mild symptoms or in young, active ppl. Vax, 😷 indoors, improve ventil/filtration, etc & be safe.
-#longcovid #heart #stroke #AHA #COVID #COVID
-
-https://www.heartandstroke.ca/articles/coronavirus-heart-disease-and-stroke
-----------------------
-Brad@zeroes.ca - Published December 1, 2023- “Infectivity of exhaled SARS-CoV-2 aerosols is sufficient to transmit covid-19 within minutes” “This time can be as short as 6 min when a highly infectious individual enters the room or only 1 min if the infected person already has been in the room long enough to reach steady-state concentration of viruses in the air.” - https://www.nature.com/articles/s41598-023-47829-8
-----------------------
-proprietedusage@eldritch.cafe - "L'infection par le COVID-19 a plusieurs effets très préoccupants sur le système immunitaire qui pourraient facilement conduire à favoriser d'autres agents pathogènes et à aggraver les conséquences des réinfections par le COVID-19. Ce dysfonctionnement ou vieillissement du système immunitaire est au moins l'un des scénarios les plus probables expliquant les récentes vagues de maladies comme le VRS, la grippe, le streptocoque A et d'autres infections. En revanche, la dette immunitaire n'est pas considérée comme une explication viable, car l'augmentation de ces maladies se poursuit dans les pays qui ont déjà connu des flambées la saison dernière et voient l'immunité diminuer pour bon nombre de ces maladies. Une autre préoccupation sérieuse à ce stade est que les infections répétées par le COVID-19 pourraient conduire à l'épuisement des cellules T CD8+ cytotoxiques, ce qui pourrait avoir des effets en aval sur d'autres maladies comme les cancers, car les cellules T jouent un rôle essentiel dans la limitation de la prolifération tumorale et il a été démontré qu'elles peuvent se différencier et devenir dysfonctionnelles."
-
-https://cabrioles.substack.com/p/covid-19-et-dysregulation-immunitaire?publication_id=850442
----------------------
-erictopol@mstdn.social - "These results robustly demonstrate pronounced cognitive slowing in people with PCC [#LongCovid] which distinguishes them from age-matched healthy individuals who previously had symptomatic COVID-19 but did not manifest Long Covid." https://medrxiv.org/content/10.1101/2023.12.03.23299331v1
----------------------
-cabrioles - Qu'est-ce qui a alimenté la vague de VRS en 2022 ? | John Snow Project
-
-Une grande étude américaine a récemment montré un risque plus élevé de bronchiolite et d'infection par le virus respiratoire syncytial (VRS) après une infection par le COVID-19.
-🔗 https://cabrioles.substack.com/p/quest-ce-qui-a-alimente-la-vague
---------------------
-armeline - Dre Mona Nemer (@SciChefCan): "Même les cas bénins d'infection par le SRAS-CoV-2 risquent de se transformer en covid longue, et ces résultats suggèrent que la menace augmente en cas d'infections multiples. (1/3) https://www150.statcan.gc.ca/n1/pub/75-006-x/2023001/article/00015-fra.htm"; | nitter
---------------------
-anitaycheng@mastodon.publicinterest.town - An article about masks that they say everybody should read! Masking (even badly) resulted in less incidences of #COVID. Dr. Griffin also goes into a history lecture about #masks and how they were used successfully, and subsequently derided, even in past centuries. https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2811136
---------------------
-DenisCOVIDinfoguy@aus.social - New study proves that COVID-19 is far more harmful and deadly than the flu.
-
-Dr. Al-Aly wrote, “We observed higher risks of death, healthcare utilization and hits in most organ systems in COVID-19 than the flu. This was evident in pre-Delta, Delta, and Omicron. And also evident in vaccinated and unvaccinated individuals. COVID-19 remain a much more serious threat to human health than the flu.”
-
-He added that the study findings underscore that “COVID-19 is really a multisystemic disease and flu is more of a respiratory virus.
-
-With SAR-CoV-2, a highly infectious non-seasonal pathogen with a robust capacity for further evolution, and for which existing vaccines and prior infections offer very limited immunity, the current global policy of “forever COVID” means that society is being forced to endure multiple annual waves of mass infection, with unknown but far-reaching long-term consequences.
-
-#COVID19 @auscovid19
-
-Source: https://www.wsws.org/en/articles/2023/12/18/covi-d18.html
-----------------------
-nousaerons - "That a pure atmosphere is necessary to preserve health I need not attempt to prove by reasoning; it is a thruth universally known and acknowledged." Thomas Tredgold in 1824.
-
-For 200 years, calculations have been made to define what ventilation should be installed.
-
-More information on History section of https://nousaerons.fr/benchmark/
-https://docs.google.com/spreadsheets/d/1I5slGR5S__B8SKvKf1cWGpIXGFfQUnKM4aTNbK9LUnQ/edit#gid=0
-
--------------------
-
-erictopol@mstdn.social - Pronounced cognitive slowing in individuals with Long Covid as compared with matched controls using objective testing in a new multicenter report 
 
 https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(24)00013-0/fulltext
 
