@@ -83,6 +83,10 @@ Une infection par le SARS-CoV-2 augmente le risque de maladie neurodégénérati
 
 > https://www.thelancet.com/journals/laneur/article/PIIS1474-4422(24)00178-9/abstract 
 
+Les enfants exposés au COVID-19 in utero risquent un retard neurodéveloppemental.
+«Plus de 50 % des nourrissons exposés au SRAS-CoV-2 présentaient des scores ASQ-3 inférieurs à la limite attendue, avec environ la moitié classée avec un retard de développement neurodéveloppemental, principalement à 4 et 12 mois», écrivent les auteurs.
+
+> https://www.cidrap.umn.edu/covid-19/study-shows-infants-exposed-covid-utero-risk-developmental-delay
 
 </details>
 
@@ -93,6 +97,11 @@ Une infection par le SARS-CoV-2 augmente le risque de maladie neurodégénérati
 
 #### Effets sur le système immunitaire
 <details> > <summary> En savoir plus </summary> 
+
+
+Une grande étude américaine a montré un risque plus élevé de bronchiolite et d'infection par le virus respiratoire syncytial (VRS) après une infection par le COVID-19.
+
+> https://cabrioles.substack.com/p/quest-ce-qui-a-alimente-la-vague
 
 </details>
 
@@ -186,22 +195,8 @@ Covid roundup à synthétiser : https://www.patreon.com/posts/pandemic-roundup-9
 
 
 
-
-academia_carnet@sciences.re - #AutoDéfenseESR
-
-
-
 ------------------------------
 
-
-------------------------------
-
-cabrioles - Qu'est-ce qui a alimenté la vague de VRS en 2022 ? | John Snow Project
-
-Une grande étude américaine a récemment montré un risque plus élevé de bronchiolite et d'infection par le virus respiratoire syncytial (VRS) après une infection par le COVID-19.
-🔗 https://cabrioles.substack.com/p/quest-ce-qui-a-alimente-la-vague
-
-#AutodéfenseSanitaire #Antivalidisme #MaskUp #CovidIsNotOver 
 
 ----------------------------
 
@@ -209,11 +204,6 @@ MatWright@mastodon.social - Every day, every new frightening study increases my 
 
 They are complicit in disabling generations, it's criminal.
 
-"Over 50% of the SARS-CoV-2 exposed infants presented ASQ-3 scores below the expected cutoff, with about half classified with neurodevelopmental delay, mainly at 4 and 12 months,” the authors wrote.
-
-#Covid #Covid19
-
-https://www.cidrap.umn.edu/covid-19/study-shows-infants-exposed-covid-utero-risk-developmental-delay
 
 --------------------------------
 
