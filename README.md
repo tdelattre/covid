@@ -61,7 +61,8 @@ Des scientifiques de l'institut Pasteur démontrent la persistance virale du SAR
 
 
 Des statistiques sur la population Canadienne révèlent que le pourcentage d'adultes présentant des symptômes à long terme augmente avec le nombre d'infections à la COVID-19 (15% pour une infection, 35 à 40% pour 3 infections)
-Près de la moitié des adultes canadiens ayant déclaré ressentir encore des symptômes à long terme de la COVID-19 ont aussi déclaré n’avoir constaté aucune amélioration au fil du temps.
+Près de la moitié des adultes canadiens ayant déclaré ressentir encore des symptômes à long terme de la COVID-19 ont aussi déclaré n’avoir constaté aucune amélioration au fil du temps. 
+10% de la population déclare présenter des symptomes à long terme.
 Dre Mona Nemer (@SciChefCan), conseillère scientifique en chef du Canada : "Même les cas bénins d'infection par le SRAS-CoV-2 risquent de se transformer en covid longue, et ces résultats suggèrent que la menace augmente en cas d'infections multiples. 
 
 > https://www150.statcan.gc.ca/n1/pub/75-006-x/2023001/article/00015-fra.htm
@@ -72,6 +73,12 @@ Il a été motivé pour étudier le phénomène après avoir observé l'ampleur 
 « Il y a cinq ans, il ne me serait pas venu à l'idée d’examiner la possibilité d’une « longue grippe ». Mais l'une des principales leçons que nous avons apprises de cette pandémie est qu'un virus dont nous pensions tous initialement qu'il ne pourrait que causer de maladies graves laisse des millions de personnes atteintes de Covid longu, a-t-il déclaré. « Nous nous sommes demandé si cela pourrait se produire avec d’autres choses. Cela pourrait-il se produire avec la grippe, par exemple?»
 
 > https://www.theguardian.com/society/2023/dec/14/long-flu-study-finds-flu-patients-at-higher-risk-of-longer-term-illness
+
+Plus de la moitié des américains qui guérissent d'une infection Covid ont des symmptômes qui durent jusqu'à 3 ans.
+
+> https://tinyurl.com/54xuebr7
+> https://www.foxnews.com/health/over-half-people-get-covid-have-lingering-symptoms-3-years-study-finds
+
 
 
 </details>
@@ -88,6 +95,10 @@ Les enfants exposés au COVID-19 in utero risquent un retard neurodéveloppement
 
 > https://www.cidrap.umn.edu/covid-19/study-shows-infants-exposed-covid-utero-risk-developmental-delay
 
+«Ces résultats démontrent de manière robuste un ralentissement cognitif sévère chez les personnes atteintes de Covid long.»
+
+> https://medrxiv.org/content/10.1101/2023.12.03.23299331v1
+
 </details>
 
 #### Effets sur le système cardiovasculaire
@@ -98,6 +109,9 @@ Les enfants exposés au COVID-19 in utero risquent un retard neurodéveloppement
 #### Effets sur le système immunitaire
 <details> > <summary> En savoir plus </summary> 
 
+La COVID-19 provoque le renouvellement et le vieillissement des cellules immunitaires responsables de la réponse à d’autres agents pathogènes. Ces cellules ont une capacité de renouvellement limitée, qui s'épuise lorsqu'elle est utilisée pour générer des cellules de lutte contre les maladies. Le COVID-19 active largement ces cellules et donc les vieillit. Les cellules T naives sont relativement indifférenciées, et la stimulation les amènera plus rapidement à la différenciation terminale et réduira en même temps leur capacité prolifative. Des études suggèrent également que le SRAS-COV-2 provoque une apoptose cellulaire (mort cellulaire programmée) de certains lymphocytes T dans le système immunitaire.
+
+> https://whn.global/scientific/covid19-immune-dysregulation/
 
 Une grande étude américaine a montré un risque plus élevé de bronchiolite et d'infection par le virus respiratoire syncytial (VRS) après une infection par le COVID-19.
 
@@ -105,6 +119,18 @@ Une grande étude américaine a montré un risque plus élevé de bronchiolite e
 
 </details>
 
+
+#### Effets sur le système digestif
+<details> > <summary> En savoir plus </summary> 
+
+Un essai randomisé, en double aveugle, contrôle versus placebo, montre que moduler le microbiome intestinal est efficace pour soulager les symptômes du Covid Long.
+
+> https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(23)00685-0/fulltext
+
+Le microbiome intestinal semble être un facteur permettant de prédire le risque de COVID long
+> [https://www.cell.com/cell-host-microbe/abstract/S1931-3128(24)00122-7 ](https://www.cell.com/cell-host-microbe/abstract/S1931-3128(24)00122-7)
+
+</details>
 
 ### Qui est affecté par le COVID ?
 
@@ -165,9 +191,15 @@ Des scientifiques et médecins qui étudient le COVID disebt qu'ils continuent �
 > https://aus.social/@DenisCOVIDinfoguy/111604132349988991
 > https://www.youtube.com/watch?v=rMt6ZV-hHSE
 
+#### Filtration de l'air
+
+Pour choisir un filtre, si un compromis est nécessaire, mieux vaut viser un grand CADR (quantité d'air nettoyé) qu'une finesse de filtration importante.
+https://www.youtube.com/watch?v=bzFJNiZX0us
+
 </details>
 
 </details>
+
 
 ## Couverture journalistique de la pandémie
 <details> > <summary> En savoir plus </summary> 
@@ -195,49 +227,9 @@ Covid roundup à synthétiser : https://www.patreon.com/posts/pandemic-roundup-9
 
 
 
-------------------------------
-
-
-----------------------------
-
-MatWright@mastodon.social - Every day, every new frightening study increases my fury at the Public Health Covid minimizers who can read the research same as all of us, and stay silent on the damage infections cause.
-
-They are complicit in disabling generations, it's criminal.
-
-
---------------------------------
-
-whn@forall.social - Is the efficiency of a filter important, or is it the Clean Air Delivery Rate (CADR)?
-
-Alex Siegenfeld explains during our Clean Air Expo that being downstream of a high efficiency (HEPA) filter leads to breathing cleaner air.
-https://www.youtube.com/watch?v=bzFJNiZX0us
--------------------------------
-erictopol@mstdn.social - A randomized, double-blind. placebo-controlled trial of modulating the gut microbiome is successful for symptom alleviation in Long Covid
-
-https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(23)00685-0/fulltext 
----------------------------------
-
-arisummerland@mstdn.social - Putting this here so I can find it again.
-
-TL;DR: #COVID fucks up the immune system and AGES your cells. Recovery of vital immune cells can take months, even years. Adults have a LIMITED ABILITY to create new immune cells bc our thymus is atrophied.
-
-Your body does NOT develop immunity to new COVID strains, and “immunity debt” is a MADE-UP TERM that has absolutely NO BASIS in reality or how our immune systems actually work.
-
-https://whn.global/scientific/covid19-immune-dysregulation/
-
-----------------------------------
-
-https://www150.statcan.gc.ca/n1/pub/75-006-x/2023001/article/00015-eng.htm
---------------------
-erictopol@mstdn.social - "These results robustly demonstrate pronounced cognitive slowing in people with PCC [#LongCovid] which distinguishes them from age-matched healthy individuals who previously had symptomatic COVID-19 but did not manifest Long Covid." https://medrxiv.org/content/10.1101/2023.12.03.23299331v1
------------------------
-https://www.nature.com/articles/d41586-023-04063-6
-contact tracing, risque de contamination en fonction des situations
-------------------------
-démonstration empirique du ralentissement cognifitf chez les malades du covid
-erictopol@mstdn.social - "These results robustly demonstrate pronounced cognitive slowing in people with PCC [#LongCovid] which distinguishes them from age-matched healthy individuals who previously had symptomatic COVID-19 but did not manifest Long Covid." https://medrxiv.org/content/10.1101/2023.12.03.23299331v1
 -----------------------
 cbarbermd@med-mastodon.com - ⭐️A new study found that >50% of people who recover from COVID-19 have lingering symptoms for as long as 3 years.
+
 
 ⭐️Of Long COVID individuals who were reinfected with omicron, 62% experienced new or worsening symptoms.
 #LongCovid #COVID19 #covid
