@@ -103,19 +103,29 @@ Le microbiome intestinal semble être un facteur permettant de prédire le risqu
 Le COVID se transmet en respirant l'air contaminé par une autre personne. Il suffit que celle-ci respire dans la même pièce que vous. C'est encore pire si elle tousse, parle, chante, ou pratique un exercice physique (tout ce qui augmente l'activité respiratoire) mais la respiration suffit.
 > https://www.bmj.com/content/378/bmj.o1929
 
-    Ferretti et al. étudient la corrélation entre la quantité de temps passé avec une personne infectée, en fonction des situations (famille, travail) avec la probabilité de développer infection. Un score à haut risque résulte de la vie dans le même foyer qu'une personne infectieuse. Une brève rencontre à une distance de 2 mètres pendant 15 minutes, le seuil de contact «pertinent» défini dans la recherche manuelle des contacts pendant la pandémie de COVID-19 dans la plupart des pays, aboutit à un faible score de risque.
+
+Ferretti et al. étudient la corrélation entre la quantité de temps passé avec une personne infectée, en fonction des situations (famille, travail) avec la probabilité de développer infection. Un score à haut risque résulte de la vie dans le même foyer qu'une personne infectieuse. Une brève rencontre à une distance de 2 mètres pendant 15 minutes, le seuil de contact «pertinent» défini dans la recherche manuelle des contacts pendant la pandémie de COVID-19 dans la plupart des pays, aboutit à un faible score de risque.
+    
 > https://www.nature.com/articles/d41586-023-04063-6
 
   </details>
 
 ### Méthodes de prévention
 <details> > <summary> En savoir plus </summary> 
-Un outil permettant de calculer le risque de contagion pour un lieu ou un évènement donné, en fonction des mesures appliquées. Outil développé par un panel international d'experts mandatés par l'OMS. 
+Un outil permettant de calculer le risque de contagion pour un lieu ou un évènement donné, en fonction des mesures appliquées. Outil développé par un panel international d'experts mandatés par l'OMS.
+  
 > https://partnersplatform.who.int/aria
 > https://iris.who.int/handle/10665/376346
 
-La vaccinationd des enfants permet une protection modérée contre le le covid long (35 à 42%) 
+
+La vaccination des enfants permet une protection modérée contre le le covid long (35 à 42%) 
+
 > https://publications.aap.org/pediatrics/article/doi/10.1542/peds.2023-064446/196419/Vaccine-Effectiveness-Against-Long-COVID-in?searchresult=1?autologincheck=redirected
+
+Des scientifiques et médecins qui étudient le COVID disebt qu'ils continuent à se protéger du COVID et à porter le masque, et expliquent pourquoi
+
+> https://aus.social/@DenisCOVIDinfoguy/111604132349988991
+> https://www.youtube.com/watch?v=rMt6ZV-hHSE
 
 </details>
 
@@ -129,6 +139,12 @@ La couverture journalistique globale du COVID est au mieux, extrèmement partiel
 Une interview de médecin couvrant correctement et clairement la plupart des sujets, mais ne donnant pas de sources
 > https://www.ineteconomics.org/perspectives/blog/from-long-covid-odds-to-lost-iq-points-ongoing-threats-you-dont-know-about
 
+"Travailler sur le Covid Long m'a appris à devenir un meilleur journaliste", par Ed Yong
+"En tant que journaliste scientifique, j'ai écrit sur de nombreux sujets au cours de ma carrière. Aucun ne m'a autant affecté que le Covid  Long. Aucun n'a changé ma vision de ce que le journalisme peut faire et de comment il peut le faire de manière aussi profonde."
+
+> https://cabrioles.substack.com/p/travailler-sur-le-covid-long-ma-appris
+
+
 </details>
 
 # Sources
@@ -140,23 +156,8 @@ Covid roundup à synthétiser : https://www.patreon.com/posts/pandemic-roundup-9
 
 
 
------------
-DenisCOVIDinfoguy@aus.social - Scientists who study #LongCovid were asked if they continue to be COVID-cautious by wearing masks.
-
-Prof. Akiko Iwasaki @VirusesImmunity
-Michael Peluso, MD @MichaelPelusoMD
-Ziyad Al-Aly, MD @zalaly
-
-#COVID19 #LongCOVID #MaskUp #COVIDisNotOver #COVIDisAirborne @auscovid19 
-(vidéo ici : 
-https://aus.social/@DenisCOVIDinfoguy/111604132349988991)
-
 ------------------
-cabrioles - Travailler sur le Covid Long m'a appris à devenir un meilleur journaliste | Ed Yong
 
-En tant que journaliste scientifique, j'ai écrit sur de nombreux sujets au cours de ma carrière. Aucun ne m'a autant affecté que le Covid  Long. Aucun n'a changé ma vision de ce que le journalisme peut faire et de comment il peut le faire de manière aussi profonde.
-
-https://cabrioles.substack.com/p/travailler-sur-le-covid-long-ma-appris
 -----------------
 
 armeline - Xavier Hugonet (@HugonetX): "THREAD #SARSCoV2 Des scientifiques de l'institut Pasteur démontrent la persistance virale du SARS-CoV-2 , vivant, dans l'organisme jusqu'à 18 mois après l'infection - Expériences réalisées avec les souches d'origine (France), et Omicron #COVID19 https://www.nature.com/articles/s41590-023-01661-4"; | nitter
