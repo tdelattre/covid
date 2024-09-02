@@ -53,7 +53,19 @@ Dans une interview, des chercheurs spécialistes du COVID disent qu'ils continue
 
 Le virus persiste pendant très longtemps dans de multiples organes, et cette persistence semble être corrélée aux symptômes du COVID long
 
-> https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(24)00171-3/fulltext?dgcid=raven_jbs_aip_email 
+> https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(24)00171-3/fulltext?dgcid=raven_jbs_aip_email
+
+Des scientifiques de l'institut Pasteur démontrent la persistance virale du SARS-CoV-2, vivant, dans l'organisme jusqu'à 18 mois après l'infection
+
+> https://www.nature.com/articles/s41590-023-01661-4
+
+L'émulation scientifique et médicale autour du "COVID long" permet de (re)découvrir des phénomènes similaires dans d'autres infections, comme la grippe.
+«Il est tout à fait clair que la "grippe longue" est pire que la grippe, tout comme le Covid long est pire que le Covid», a déclaré le Dr ziyad Al-Aly, un épidémiologiste clinique de l’Université de Washington à Saint-Louis, dans le Missouri, qui a dirigé la recherche. 
+Il a été motivé pour étudier le phénomène après avoir observé l'ampleur des maladies de longue durée rencontrées par les personnes qui se sont rétablies de Covid.
+« Il y a cinq ans, il ne me serait pas venu à l'idée d’examiner la possibilité d’une « longue grippe ». Mais l'une des principales leçons que nous avons apprises de cette pandémie est qu'un virus dont nous pensions tous initialement qu'il ne pourrait que causer de maladies graves laisse des millions de personnes atteintes de Covid longu, a-t-il déclaré. « Nous nous sommes demandé si cela pourrait se produire avec d’autres choses. Cela pourrait-il se produire avec la grippe, par exemple?»
+
+> https://www.theguardian.com/society/2023/dec/14/long-flu-study-finds-flu-patients-at-higher-risk-of-longer-term-illness
+
 
 </details>
 
@@ -117,6 +129,16 @@ Un outil permettant de calculer le risque de contagion pour un lieu ou un évèn
 > https://partnersplatform.who.int/aria
 > https://iris.who.int/handle/10665/376346
 
+Guide du Collectif Casper pour la réduction des risques de transmission
+
+> https://academia.hypotheses.org/47539
+
+
+« 40 % des enfants sont encore infectieux après une résolution des symptômes » « Ces résultats encouragent la prise en compte des mesures de prévention et de contrôle des infections pendant une période allant jusqu'à 10 jours après l'apparition des symptômes afin de réduire le risque de transmission résiduel autour des populations vulnérables ou immunodéprimées »
+
+> https://www.cidrap.umn.edu/covid-19/covid-study-40-children-still-infectious-after-symptom-resolution
+
+
 
 La vaccination des enfants permet une protection modérée contre le le covid long (35 à 42%) 
 
@@ -133,10 +155,13 @@ Des scientifiques et médecins qui étudient le COVID disebt qu'ils continuent �
 
 ## Couverture journalistique de la pandémie
 <details> > <summary> En savoir plus </summary> 
+  
 La couverture journalistique globale du COVID est au mieux, extrèmement partielle et erronée, et dans l'ensemble, positivement mensongère
+
 > https://www.thegauntlet.news/p/how-the-press-manufactured-consent 
 
 Une interview de médecin couvrant correctement et clairement la plupart des sujets, mais ne donnant pas de sources
+
 > https://www.ineteconomics.org/perspectives/blog/from-long-covid-odds-to-lost-iq-points-ongoing-threats-you-dont-know-about
 
 "Travailler sur le Covid Long m'a appris à devenir un meilleur journaliste", par Ed Yong
@@ -148,45 +173,16 @@ Une interview de médecin couvrant correctement et clairement la plupart des suj
 </details>
 
 # Sources
-
+-------------------------------------------------------------------------------------------------------------------------
 
 Covid roundup à synthétiser : https://www.patreon.com/posts/pandemic-roundup-95419817
 
 
 
 
-
-------------------
-
------------------
-
-armeline - Xavier Hugonet (@HugonetX): "THREAD #SARSCoV2 Des scientifiques de l'institut Pasteur démontrent la persistance virale du SARS-CoV-2 , vivant, dans l'organisme jusqu'à 18 mois après l'infection - Expériences réalisées avec les souches d'origine (France), et Omicron #COVID19 https://www.nature.com/articles/s41590-023-01661-4"; | nitter
-
-https://nitter.d420.de/HugonetX/status/1735586497711972690#m
-https://www.lexpress.fr/sciences-sante/sante/covid-long-la-persistance-virale-nest-pas-une-hypothese-cest-une-realite-XFISYGJFQFGZFKACE4EDNSKXYM
-
------------------------
-armeline - Après le #LongCovid  la #LongueGrippe
-
-‘Long flu’: study finds flu patients at higher risk of longer-term illness | Flu | The Guardian
-
-https://www.theguardian.com/society/2023/dec/14/long-flu-study-finds-flu-patients-at-higher-risk-of-longer-term-illness
-----------------------
-Brad@zeroes.ca - December 12, 2023- "40% of children still infectious after symptom resolution” “These findings support the consideration for infection prevention and control interventions for up to 10 days post symptom onset to reduce residual transmission risk around vulnerable or immunocompromised populations," the authors said.”-https://www.cidrap.umn.edu/covid-19/covid-study-40-children-still-infectious-after-symptom-resolution
-----------------------
-themaskerscomic@forall.social - The percentage of adults experiencing long-term symptoms increased with the number of COVID-19 infections reported:
-
-15% reporting prolonged symptoms after one infection,  
-
-25% after two infections, and
-
-38% with 3 or more infections
------------------------
-
 academia_carnet@sciences.re - #AutoDéfenseESR
 
-En cette période de recrudescence du #COVID et en l'absence de toute disposition de prévention du @sup_recherche ou du @dgafp, @academia_carnet rappel l'existence du guide du Collectif Casper en réduction des risques de transmission
-https://academia.hypotheses.org/47539
+
 
 ------------------------------
 
