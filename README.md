@@ -59,6 +59,13 @@ Des scientifiques de l'institut Pasteur démontrent la persistance virale du SAR
 
 > https://www.nature.com/articles/s41590-023-01661-4
 
+
+Des statistiques sur la population Canadienne révèlent que le pourcentage d'adultes présentant des symptômes à long terme augmente avec le nombre d'infections à la COVID-19 (15% pour une infection, 35 à 40% pour 3 infections)
+Près de la moitié des adultes canadiens ayant déclaré ressentir encore des symptômes à long terme de la COVID-19 ont aussi déclaré n’avoir constaté aucune amélioration au fil du temps.
+Dre Mona Nemer (@SciChefCan), conseillère scientifique en chef du Canada : "Même les cas bénins d'infection par le SRAS-CoV-2 risquent de se transformer en covid longue, et ces résultats suggèrent que la menace augmente en cas d'infections multiples. 
+
+> https://www150.statcan.gc.ca/n1/pub/75-006-x/2023001/article/00015-fra.htm
+
 L'émulation scientifique et médicale autour du "COVID long" permet de (re)découvrir des phénomènes similaires dans d'autres infections, comme la grippe.
 «Il est tout à fait clair que la "grippe longue" est pire que la grippe, tout comme le Covid long est pire que le Covid», a déclaré le Dr ziyad Al-Aly, un épidémiologiste clinique de l’Université de Washington à Saint-Louis, dans le Missouri, qui a dirigé la recherche. 
 Il a été motivé pour étudier le phénomène après avoir observé l'ampleur des maladies de longue durée rencontrées par les personnes qui se sont rétablies de Covid.
@@ -186,9 +193,6 @@ academia_carnet@sciences.re - #AutoDéfenseESR
 
 ------------------------------
 
-armeline - Dre Mona Nemer (@SciChefCan): "Même les cas bénins d'infection par le SRAS-CoV-2 risquent de se transformer en covid longue, et ces résultats suggèrent que la menace augmente en cas d'infections multiples. (1/3) https://www150.statcan.gc.ca/n1/pub/75-006-x/2023001/article/00015-fra.htm"; | nitter
-
-https://nitter.d420.de/SciChefCan/status/1733861400102011375#m
 
 ------------------------------
 
