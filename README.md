@@ -108,11 +108,10 @@ Les enfants exposés au COVID-19 in utero risquent un retard neurodéveloppement
 
 > https://www.cidrap.umn.edu/covid-19/study-shows-infants-exposed-covid-utero-risk-developmental-delay
 
-«Ces résultats démontrent de manière robuste un ralentissement cognitif sévère chez les personnes atteintes de Covid long.»
+«Ces résultats démontrent de manière robuste un ralentissement cognitif sévère et généralisé chez les personnes atteintes de Covid long.»
 
 > https://medrxiv.org/content/10.1101/2023.12.03.23299331v1
 > https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(24)00013-0/fulltext
-
 
 </details>
 
@@ -140,6 +139,11 @@ Une grande étude américaine a montré un risque plus élevé de bronchiolite e
 
 > https://cabrioles.substack.com/p/covid-19-et-dysregulation-immunitaire?publication_id=850442
 
+
+Des fragments de virus SARS-CoV-2 peuvent se réassembler en complexes "zombie" (XenoAMP-dsDNA) et provoquer des réponses immunitaires majeures et stables, affectant des cellules saines, non infectées. Ce pĥénomène n'est pas observé dans le cas des coronavirus classiques causant les "coups de froid"
+
+> https://www.pnas.org/doi/10.1073/pnas.2300644120
+
 </details>
 
 
@@ -163,6 +167,9 @@ Le Covid provoque des naissances prématurées (< 32 semaines de gestation). La 
 
 > https://pnas.org/doi/epdf/10.1073/pnas.2311573120
 
+Une infection au SARS-CoV-2 pourrait-elle causer des cancers ? On estime que les infections virales sont responsavles de 15 à 20% des cas de cancer dans le monde. "Nous ne comprenons pas encore très bien ce virus, donc je ne peux que spéculer sur son influence sur le cancer en attendant les résultats de cette étude. Mais nous savons qu'il cause une inflammation chronique, ce qui crée une situation favorable à davantage de mutations qui s'accumulent dans différentes cellules, et celles qui prolifèrent peuvent devenir cancéreuses". Akiko Iwasaki, professeur à la Yale School of Medicine
+
+> https://fortune.com/2023/11/23/inside-long-covids-war-body-researchers-trying-find-out-virus-potential-cancer-carolyn-barber/
 
 </details>
 
@@ -274,35 +281,22 @@ Une interview de médecin couvrant correctement et clairement la plupart des suj
 
 </details>
 
-# Sources
+# Pour en savoir plus
 -------------------------------------------------------------------------------------------------------------------------
+Une revue d'actualités sur le COVID, par l'autrice américaine Violet Blue (en anglais) : https://www.patreon.com/collection/1160?view=expanded
 
-Covid roundup à synthétiser : https://www.patreon.com/posts/pandemic-roundup-95419817
-
-
-https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(24)00013-0/fulltext
-
-
---------_---------------
-
-mfischman@mamot.fr - Webinaire Winslow Santé Publique : Persistance virale du SARS-Cov-2 dans...
+--------
+L'association Winslow Santé Publique invitait, le 19 janvier 2024,  Nicolas Huot et Michaela Muller-Trutwin pour parler de leur étude menée au sein de l'institut Pasteur sur la persistance virale du SARS-Cov-2 dans les macrophages des poumons
 https://youtube.com/watch?v=8JMviWkEG7o&feature=shared
 
-----------++++++++++++++++++
-cbarbermd@med-mastodon.com - New cancer diagnoses are expected to exceed 2 million/yr for the 1st time per @AmericanCancer. Many poss reasons for this. I spoke with multiple experts👇including @VirusesImmunity about whether #SARSCoV2 can lead to cancer…
+--------
+Une audition du Sénat Américain sur le Covid long, le traitement des patients et la recherche sur le sujet
+https://www.help.senate.gov/hearings/addressing-long-covid-advancing-research-and-improving-patient-care
 
-“We don’t have great evidence, but this virus has surprised us over & over.”
+--------
 
-https://fortune.com/2023/11/23/inside-long-covids-war-body-researchers-trying-find-out-virus-potential-cancer-carolyn-barber/
-#covid #covid-19
----------------------+-+
-
-COVID attacks every organs :
-oconnell@texasobserver.social - @tomdelattre of course, you're welcome. The source is this recent Congressional hearing on Long Covid. Click through to the pdf of Dr. Al-Aly's testimony and you will find lots of footnotes with his sources as well. https://www.help.senate.gov/hearings/addressing-long-covid-advancing-research-and-improving-patient-care
 -------------------------
-erictopol@mstdn.social - Important discovery related to LongCovid: Fragments of SARS-CoV-2 virus can reassemble into "zombie" complexes (XenoAMP-dsDNA) and induce a major and sustained immune response, affecting healthy, uninfected cells, not seen with common cold coronaviruses
 
-https://www.pnas.org/doi/10.1073/pnas.2300644120
 
 ---------------------
 currentbias@open-source-eschaton.net - David Putrino, one of the world's leading long covid researchers, was interviewed by Dana Parish from the Bay Area Lyme Foundation, and it's an incredibly thorough, dense, and digestible conversation. Highlights from David:
