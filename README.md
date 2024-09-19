@@ -43,6 +43,14 @@ Le COVID (tous variants, tous statuts vaccinaux) a un taux de léthalité direct
 
 > https://www.bu.edu/sph/news/articles/2024/new-analysis-reveals-many-excess-deaths-attributed-to-natural-causes-are-actually-uncounted-covid-19-deaths/
 
+Accidents vasculaires cérébraux, crises cardiaques, morts subites : L'Amérique comprend-elle les risques à long terme liés à l'infection par le COVID ?
+
+> https://fortune.com/2022/10/06/strokes-heart-attacks-sudden-death-america-long-term-risks-catching-covid-carolyn-barber/
+
+Les survivants d'une forme grave de COVID-19 ont deux fois et demie plus de risques de mourir dans l'année qui suit la maladie que les personnes qui n'ont jamais été infectées. Il convient de noter que près de 80 % des décès en aval n'étaient pas dus à des complications typiques du COVID, telles qu'une détresse respiratoire aiguë ou des causes cardiaques.
+
+> https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2021.778434/full
+
 </details>
 
 #### Le COVID est une maladie systémique, affectant tous les organes
@@ -159,6 +167,14 @@ Des fragments de virus SARS-CoV-2 peuvent se réassembler en complexes "zombie" 
 
 > https://www.pnas.org/doi/10.1073/pnas.2300644120
 
+Dysrégulation persistante du complément du système immunitaire avec des signes de thrombo-inflammation, en cas de Long Covid actif.
+
+> https://www.science.org/doi/10.1126/science.adg7942
+
+Une étude de cohorte basée sur la population montre un risque accru de maladies auto-immunes après un COVID pendant au moins un an. Les chercheurs ont analysé une base de données de plus de 20 millions de personnesdiagnostiqués avec Covid au cours de la période 2020-21. 
+
+> https://www.cidrap.umn.edu/covid-19/covid-tied-higher-risk-inflammatory-autoimmune-diseases-1-year.
+
 </details>
 
 
@@ -200,7 +216,7 @@ Le microbiome intestinal semble être un facteur permettant de prédire le risqu
 ## Où en est la pandémie de COVID ?
 <details> > <summary> En savoir plus </summary> 
 
-  En France, l'évolution de la pandémie est suivi via l'analyse de la présence de virus dans les eaux usées. Ces résultats peuvent être consultés en "temps réel" (par pas d'une semaine) ici :
+  En France, l'évolution de la pandémie est suivie via l'analyse de la présence de virus dans les eaux usées. Ces résultats peuvent être consultés en "temps réel" (par pas d'une semaine) ici :
   > https://tdelattre.shinyapps.io/SUMEau/
 
 </details>
@@ -250,6 +266,11 @@ La vaccination des mères enceintes n'a pas d'effet négatifs détectables sur l
 
 > https://jamanetwork.com/journals/jama/fullarticle/2814537
 
+Parmi les 67 millions de personnes au Royaume-Uni, les conséquences de l'absence de vaccin Covid, en particulier chez les adultes plus âgés (75 ans et plus) :
+L'absence d'une injection présente un risque similaire de Covid grave que l'absence des 4 injections (2,7 contre 3,1 fois, respectivement), ce qui met en évidence l'affaiblissement de l'immunité.
+
+> https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(23)02467-4/fulltext 
+
 #### Masques 
 
 Des scientifiques et médecins qui étudient le COVID disebt qu'ils continuent à se protéger du COVID et à porter le masque, et expliquent pourquoi
@@ -276,6 +297,10 @@ Depuis 200 ans, des calculs ont été effectués pour définir la ventilation n�
 > More information on History section of https://nousaerons.fr/benchmark/
 > https://docs.google.com/spreadsheets/d/1I5slGR5S__B8SKvKf1cWGpIXGFfQUnKM4aTNbK9LUnQ/edit#gid=0
 
+Un programme du gouvernement Néo-Zélandais, visant à améliorer l'environnement scolaire via le monitoring des classes, dont le CO2 pour évaluer la qualité de la ventilation et des risques de contagion.
+
+> https://www.education.govt.nz/our-work/changes-in-education/te-haratau/
+
 </details>
 
 </details>
@@ -297,6 +322,9 @@ Une interview de médecin couvrant correctement et clairement la plupart des suj
 
 > https://cabrioles.substack.com/p/travailler-sur-le-covid-long-ma-appris
 
+Article du New York Time article : Is it dangerous to keep getting COVID ?
+
+> https://time.com/6553340/covid-19-reinfection-risk/
 
 </details>
 
@@ -324,45 +352,23 @@ Une revue de synthèse scientifique sur les effets du Covid Long sur les enfants
 https://publications.aap.org/pediatrics/article/doi/10.1542/peds.2023-062570/196606/Postacute-Sequelae-of-SARS-CoV-2-in-Children?autologincheck=redirected
 
 
----------------
 
- --------------
- cbarbermd@med-mastodon.com - Strokes, heart attacks, sudden deaths: Does America understand the long-term risks of catching COVID?
-
-Wrote this ~16 mos. ago, but it’s still relevant today, unfortunately!
-https://fortune.com/2022/10/06/strokes-heart-attacks-sudden-death-america-long-term-risks-catching-covid-carolyn-barber/
------------------
-
-erictopol@mstdn.social - Just published at Science
-
-A LongCovid underpinning & potential biomarker
-
-Impressive multicenter, prospective study demonstrates persistent complement activation, pro-clotting + inflammation; severity of symptoms associated with virus reactivation (CMV, EBV)
-
-https://www.science.org/doi/10.1126/science.adg7942
 
 -----------------
 
-erictopol@mstdn.social - Among 67 million people in the UK, consequences of not getting a Covid vaccine, especially among older adults, age 75+:
-Missing 1 shot had a similar risk of severe Covid as missing all 4 shots (2.7 vs 3.1-fold, respectively), emphasizing waned immunity
-https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(23)02467-4/fulltext 
+
 
 ------------------------------
 
-nousaerons - 🇳🇿 To assess the fitness for purpose of your learning environments, we are installing Internal Environment Monitors. These devices help to assess acoustics, lighting, thermal comfort and indoor air quality, which all support better educational outcomes. 
-https://www.education.govt.nz/our-work/changes-in-education/te-haratau/
+
 
 --------------------------------------
-Young, old, vax'd or unvax'd, every reinfection (mild or severe) places one at risk of developing long Covid issues that may last years. These may include cognitive issues, strokes 🧠 , heart ❤️ attacks, arrhythmias, brain fog, muscle weakness, fatigue, dizziness and the list goes on. Do your best to avoid reinfection with masking, good ventilation, etc…bc we don't have a cure, yet. 
 
-“I wish we lived in a world where getting repeat infections doesn’t matter,"
-NYT article : Is it dangerous to keep getting COVID ?
-https://time.com/6553340/covid-19-reinfection-risk/
+
 
 -----------------------------------
-cbarbermd@med-mastodon.com - A pop-based cohort study shows an increased risk of autoimmune diseases post #COVID  for at least a year. Researchers analyzed databases for >20 M ppl diagnosed with Covid during ‘2020-21. 
 
-https://www.cidrap.umn.edu/covid-19/covid-tied-higher-risk-inflammatory-autoimmune-diseases-1-year. #LongCovid #medtwitter
+
 
 ------------------------------------
 
