@@ -34,6 +34,16 @@ Le COVID (tous variants, tous statuts vaccinaux) a un taux de léthalité direct
 
 </details>
 
+#### Mortalité indirecte (morts "avec le COVID")
+<details> > <summary> En savoir plus </summary>
+
+  Les excès de décès "de cause naturelle" observés aux USA seraient en grande partie liés au COVID. Une nouvelle étude fournit des données les plus convaincantes à ce jour pour suggérer que les taux de mortalité excédentaires dus à des maladies chroniques et à d'autres causes naturelles sont en fait dus aux infections par COVID-19.
+  
+> https://www.pnas.org/doi/full/10.1073/pnas.2313661121
+> https://www.bu.edu/sph/news/articles/2024/new-analysis-reveals-many-excess-deaths-attributed-to-natural-causes-are-actually-uncounted-covid-19-deaths/
+
+</details>
+
 #### Le COVID est une maladie systémique, affectant tous les organes
 <details> > <summary> En savoir plus </summary> 
 Sur 94 indices de santé sélectionnés par le CDC, le COVID en affecte 64 (contre 6 pour la grippe).
@@ -112,6 +122,10 @@ Les enfants exposés au COVID-19 in utero risquent un retard neurodéveloppement
 
 > https://medrxiv.org/content/10.1101/2023.12.03.23299331v1
 > https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(24)00013-0/fulltext
+
+Le risque d'apparition d'une nouvelle démence après un cas de Covid chez les adultes plus âgés (60 ans et plus), d'après une revue systématique de 11 études par rapport à des témoins, est accru de ~60% ; après un cas de Covid sévère, le risque est multiplié par 17 ; il se manifeste à 6 mois.
+
+> https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4716751 (preprint)
 
 </details>
 
@@ -231,6 +245,10 @@ La vaccination des enfants permet une protection modérée contre le le covid lo
 
 > https://publications.aap.org/pediatrics/article/doi/10.1542/peds.2023-064446/196419/Vaccine-Effectiveness-Against-Long-COVID-in?searchresult=1?autologincheck=redirected
 
+La vaccination des mères enceintes n'a pas d'effet négatifs détectables sur le bébé. En revanche, elle diminue les risques pour le bébé d'avoir des hémorragies cérébrales, des encéphélopathies hypoxy-ischémiques, et le risque de décès. Etude sur 94000 grossesses.
+
+> https://jamanetwork.com/journals/jama/fullarticle/2814537
+
 #### Masques 
 
 Des scientifiques et médecins qui étudient le COVID disebt qu'ils continuent à se protéger du COVID et à porter le masque, et expliquent pourquoi
@@ -294,42 +312,19 @@ Une audition du Sénat Américain sur le Covid long, le traitement des patients 
 https://www.help.senate.gov/hearings/addressing-long-covid-advancing-research-and-improving-patient-care
 
 --------
-
--------------------------
-
-
----------------------
-currentbias@open-source-eschaton.net - David Putrino, one of the world's leading long covid researchers, was interviewed by Dana Parish from the Bay Area Lyme Foundation, and it's an incredibly thorough, dense, and digestible conversation. Highlights from David:
-
-* the median age of long covid patients at his clinic (Mount Sinai) is 38
-* viral persistence is indisputable
-* not getting covid remains the only way to prevent long covid
-
+Une interview de David Putrino, l'un des plus grands chercheurs au monde sur les covids longs. Les points forts :
+* l'âge médian des patients atteints de covid long dans sa clinique (Mount Sinai) est de 38 ans
+* la persistance virale est indiscutable
+* Ne pas contracter le covid reste le seul moyen de prévenir le covid long.
 https://vimeo.com/909202273
 
-#covid #covid19 #longcovid #SARSCoV2 #pandemic #PublicHealth #CovidIsNotOver
-
-
-----------------
-
-
-cbarbermd@med-mastodon.com - Does vaccination during pregnancy expose baby to ⬆️risk? 
-
-In this large study (94K infants), vaccination of preg women was not associated with ⬆️ risks of adverse events to baby. Researchers found a ⬇️ chance of baby having a brain bleed, hypoxic-ischemic encephalopathy, or death. #vaccines #pregnancy #covid http://tinyurl.com/y4ezupwk
-
-------------------
-
-erictopol@mstdn.social - The risk of new-onset dementia after Covid in older adults (age 60+) from a systematic review of 11 studies vs controls is ~60% increased; after severe Covid, a 17-fold increased risk; shows up at 6 months
-https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4716751 (preprint)
-
-------+-+++++++++
-
-erictopol@mstdn.social - Long Covid in kids: a state of the science review
-
+--------
+Une revue de synthèse scientifique sur les effets du Covid Long sur les enfants : 
 https://publications.aap.org/pediatrics/article/doi/10.1542/peds.2023-062570/196606/Postacute-Sequelae-of-SARS-CoV-2-in-Children?autologincheck=redirected
 
+
 ---------------
- "Excess natural-cause mortality in US counties and its association with reported COVID-19 deaths" https://www.pnas.org/doi/full/10.1073/pnas.2313661121 via https://www.bu.edu/sph/news/articles/2024/new-analysis-reveals-many-excess-deaths-attributed-to-natural-causes-are-actually-uncounted-covid-19-deaths/
+
  --------------
  cbarbermd@med-mastodon.com - Strokes, heart attacks, sudden deaths: Does America understand the long-term risks of catching COVID?
 
