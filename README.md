@@ -40,6 +40,7 @@ Le COVID (tous variants, tous statuts vaccinaux) a un taux de léthalité direct
   Les excès de décès "de cause naturelle" observés aux USA seraient en grande partie liés au COVID. Une nouvelle étude fournit des données les plus convaincantes à ce jour pour suggérer que les taux de mortalité excédentaires dus à des maladies chroniques et à d'autres causes naturelles sont en fait dus aux infections par COVID-19.
   
 > https://www.pnas.org/doi/full/10.1073/pnas.2313661121
+
 > https://www.bu.edu/sph/news/articles/2024/new-analysis-reveals-many-excess-deaths-attributed-to-natural-causes-are-actually-uncounted-covid-19-deaths/
 
 </details>
