@@ -243,14 +243,19 @@ Ferretti et al. étudient la corrélation entre la quantité de temps passé ave
 
 > https://www.nature.com/articles/s41598-023-47829-8
 
+Un guide militant mais rigoureux avec des vidéos très pédagogiques pour comprendre et visualiser l'aérosolisation du Covid-19
+
+> https://cabrioles.substack.com/p/comprendre-et-visualiser-laerosolisation
+
   </details>
 
 ### Méthodes de prévention
 <details> > <summary> En savoir plus </summary> 
 
-**Résumé : ** Les seules méthodes efficaces pour éviter la contagion collective sont les masques (FPP2 ou plus), le renouvellement ou la filtration de l'air intérieur, l'isolement des contaminé.es. Toutes ces mesures permettent également la protection individuelle, à laquelle il faut évidemment ajouter la vaccination.
+#### En Résumé : 
+Les seules méthodes efficaces pour éviter la contagion collective sont les masques (FPP2 ou plus), le renouvellement ou la filtration de l'air intérieur, l'isolement des contaminé.es. Toutes ces mesures permettent également la protection individuelle, à laquelle il faut évidemment ajouter la vaccination.
 
-**Sources portant sur plusieurs mesures de protection : **
+#### Sources portant sur plusieurs mesures de protection :
 Un outil permettant de calculer le risque de contagion pour un lieu ou un évènement donné, en fonction des mesures appliquées. Outil développé par un panel international d'experts mandatés par l'OMS.
   
 > https://partnersplatform.who.int/aria
@@ -260,9 +265,7 @@ Guide du Collectif Casper pour la réduction des risques de transmission
 
 > https://academia.hypotheses.org/47539
 
-« 40 % des enfants sont encore infectieux après une résolution des symptômes » « Ces résultats encouragent la prise en compte des mesures de prévention et de contrôle des infections pendant une période allant jusqu'à 10 jours après l'apparition des symptômes afin de réduire le risque de transmission résiduel autour des populations vulnérables ou immunodéprimées »
 
-> https://www.cidrap.umn.edu/covid-19/covid-study-40-children-still-infectious-after-symptom-resolution
 
 
 #### Vaccination
@@ -325,6 +328,12 @@ Un programme du gouvernement Néo-Zélandais, visant à améliorer l'environneme
 Une réflexion des autorités américaines sur l'amélioration de l'aération dans les bâtiments publics et en particulier les écoles
 
 > https://www.usgbc.org/articles/optimizing-school-efficiency-and-iaq-through-commissioning
+
+#### Evitement des personnes contagieuses
+
+« 40 % des enfants sont encore infectieux après une résolution des symptômes » « Ces résultats encouragent la prise en compte des mesures de prévention et de contrôle des infections pendant une période allant jusqu'à 10 jours après l'apparition des symptômes afin de réduire le risque de transmission résiduel autour des populations vulnérables ou immunodéprimées »
+
+> https://www.cidrap.umn.edu/covid-19/covid-study-40-children-still-infectious-after-symptom-resolution
 
 
 </details>
