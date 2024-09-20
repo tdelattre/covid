@@ -217,7 +217,12 @@ Le microbiome intestinal semble être un facteur permettant de prédire le risqu
 <details> > <summary> En savoir plus </summary> 
 
   En France, l'évolution de la pandémie est suivie via l'analyse de la présence de virus dans les eaux usées. Ces résultats peuvent être consultés en "temps réel" (par pas d'une semaine) ici :
+  
   > https://tdelattre.shinyapps.io/SUMEau/
+
+  Contrairement à la croyance commune, l'évolution du virus va vers davantage de dangerosité et de contagiosité. 
+
+  > https://www.cell.com/action/showPdf?pii=S0092-8674%2823%2901400-9
 
 </details>
 
@@ -269,7 +274,12 @@ La vaccination des mères enceintes n'a pas d'effet négatifs détectables sur l
 Parmi les 67 millions de personnes au Royaume-Uni, les conséquences de l'absence de vaccin Covid, en particulier chez les adultes plus âgés (75 ans et plus) :
 L'absence d'une injection présente un risque similaire de Covid grave que l'absence des 4 injections (2,7 contre 3,1 fois, respectivement), ce qui met en évidence l'affaiblissement de l'immunité.
 
-> https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(23)02467-4/fulltext 
+> https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(23)02467-4/fulltext
+
+Protection vaccinale élevée contre le Covid modéré et sévère chez les enfants et les adolescents tout au long de la pandémie, avec un risque plus faible de complications cardiaques dans le groupe vacciné pendant les périodes Omicron. 
+
+> https://acpjournals.org/doi/10.7326/M23-1754?utm_source=cmpnr&utm_campaign=lfa_240109_1&utm_content=1&cmp=1&utm_medium=email
+
 
 #### Masques 
 
@@ -300,6 +310,10 @@ Depuis 200 ans, des calculs ont été effectués pour définir la ventilation n�
 Un programme du gouvernement Néo-Zélandais, visant à améliorer l'environnement scolaire via le monitoring des classes, dont le CO2 pour évaluer la qualité de la ventilation et des risques de contagion.
 
 > https://www.education.govt.nz/our-work/changes-in-education/te-haratau/
+
+Une réflexion des autorités américaines sur l'amélioration de l'aération dans les bâtiments publics et en particulier les écoles
+
+> https://www.usgbc.org/articles/optimizing-school-efficiency-and-iaq-through-commissioning
 
 </details>
 
@@ -351,49 +365,17 @@ https://vimeo.com/909202273
 Une revue de synthèse scientifique sur les effets du Covid Long sur les enfants : 
 https://publications.aap.org/pediatrics/article/doi/10.1542/peds.2023-062570/196606/Postacute-Sequelae-of-SARS-CoV-2-in-Children?autologincheck=redirected
 
-
-
-
------------------
-
-
-
-------------------------------
-
-
-
---------------------------------------
-
-
+--------
+Campagne de prévention contre le Covid de l'association Winslow Santé Publique
+https://www.youtube.com/watch?v=iH3Ocv3Gt80
 
 -----------------------------------
 
 
-
+EN COURS DE COMPILATION : ->>
 ------------------------------------
 
-anuisance@pouet.chapril.org - Très bonne campagne de prévention contre le Covid de l'association Winslow Santé Publique, qui dit les choses comme elles doivent être dites https://www.youtube.com/watch?v=iH3Ocv3Gt80
 
-------------------------------------
-
-erictopol@mstdn.social - High vaccine protection against moderate and severe Covid in children and teens throughout the pandemic https://acpjournals.org/doi/10.7326/M23-1754?utm_source=cmpnr&utm_campaign=lfa_240109_1&utm_content=1&cmp=1&utm_medium=email
-
-And lower risk of cardiac complications among the vaccinated group during Omicron periods
-
------------------------------------
-
-nousaerons - 🇺🇸 The @USGBC explore commissioning options : new building commissioning, existing building commissioning/retro-commissioning and monitoring-based or ongoing commissioning—and associated benefits for HVAC and IAQ on school buildings.
-https://www.usgbc.org/articles/optimizing-school-efficiency-and-iaq-through-commissioning
-
------------------------------------
-
-luckytran@med-mastodon.com - New studies suggest COVID variants may cause more severe disease.
-
-Important caveat these are from studies on cells in a lab so we need to see if these observations translate in the real world.
-
-The key takeaway is to not assume variants are becoming weaker. Evolution doesn’t work like that. It’s important to not be complacent and take precautions during this surge.
-
-https://fortune.com/well/2024/01/08/covid-omicron-variants-pirola-ba286-jn1-more-severe-disease-lung-gi-tract-symptoms/
 
 -----------------------------------
 
