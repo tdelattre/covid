@@ -112,7 +112,9 @@ Plus de la moitié des américains qui guérissent d'une infection Covid ont des
 > https://tinyurl.com/54xuebr7
 > https://www.foxnews.com/health/over-half-people-get-covid-have-lingering-symptoms-3-years-study-finds
 
+Le virus persiste dans le sang des années après l'infection. "Le SARS-CoV-2, le virus responsable du COVID-19, peut rester dans le corps humain longtemps après la disparition de l'infection initiale, des fragments étant retrouvés dans le sang jusqu'à 14 mois et dans les tissus pendant plus de 2 ans."
 
+> https://neurosciencenews.com/long-covid-blood-25724/
 
 </details>
 
@@ -184,6 +186,18 @@ Une étude de cohorte basée sur la population montre un risque accru de maladie
 
 > https://www.cidrap.umn.edu/covid-19/covid-tied-higher-risk-inflammatory-autoimmune-diseases-1-year.
 
+
+Études observationnelles sur 10M de japonais.e.s et 10M de coréen.ne.s : Augmentation des risques de maladies rhumatismales d'origine autoimmune, telles que la polyarthride rhumatoïde et certaines formes de lupus
+
+> https://www.medpagetoday.com/rheumatology/generalrheumatology/109000
+> https://www.acpjournals.org/doi/10.7326/M23-1831
+
+Une vidéo très pédagogique couvrant ces deux études :
+
+> https://twitter.com/chantz_y/status/1765837555390660778
+
+
+
 </details>
 
 
@@ -210,6 +224,7 @@ Le Covid provoque des naissances prématurées (< 32 semaines de gestation). La 
 Une infection au SARS-CoV-2 pourrait-elle causer des cancers ? On estime que les infections virales sont responsavles de 15 à 20% des cas de cancer dans le monde. "Nous ne comprenons pas encore très bien ce virus, donc je ne peux que spéculer sur son influence sur le cancer en attendant les résultats de cette étude. Mais nous savons qu'il cause une inflammation chronique, ce qui crée une situation favorable à davantage de mutations qui s'accumulent dans différentes cellules, et celles qui prolifèrent peuvent devenir cancéreuses". Akiko Iwasaki, professeur à la Yale School of Medicine
 
 > https://fortune.com/2023/11/23/inside-long-covids-war-body-researchers-trying-find-out-virus-potential-cancer-carolyn-barber/
+
 
 </details>
 
@@ -352,6 +367,9 @@ Une réflexion des autorités américaines sur l'amélioration de l'aération da
 
 > https://www.cidrap.umn.edu/covid-19/covid-study-40-children-still-infectious-after-symptom-resolution
 
+Une étude indiquant quand il est le plus efficace de se tester, l'évolution temporelle de la charge virale après l'apparition des premiers symptômes, et les stratégies d'isolement optimales :
+
+> https://www.health.com/covid-test-timing-symptoms-8348633
 
 </details>
 
@@ -429,51 +447,6 @@ https://www.youtube.com/watch?v=iH3Ocv3Gt80
 EN COURS DE COMPILATION : ->>
 ------------------------------------
 
-
-erictopol@mstdn.social - 
----------------------------------------
-
-JiminyPanoz - Un nombre conséquent d'études nous montrent que le COVID a un impact conséquent sur le cerveau, et que les conséquences pourraient être autant individuelles que collectives.
-
-https://theconversation.com/mounting-research-shows-that-covid-19-leaves-its-mark-on-the-brain-including-with-significant-drops-in-iq-scores-224216
-
----------------------------------------
-
-https://toot.aquilenet.fr/@arra/112027411256133108
-arra@toot.aquilenet.fr - Ce bulletin hebdomadaire sera publié tous les samedis, si vous souhaitez nous signaler des articles, vous pouvez nous @ ici ou venir les poster directement sur le serveur Discord, ou par mail (voir notre profil avec tous les liens)
-
----------------------------------------
-
-DenisCOVIDinfoguy@aus.social - Virus Lingers in Blood Years After Infection | neurosciencenews.com
-
-"SARS-CoV-2, the virus causing COVID-19, can remain in the human body long after the initial infection has subsided, with fragments found in blood for up to 14 months and in tissues for over 2 years"
-
-#COVID19 #SARSCoV2 @auscovid19
-
-Source: https://neurosciencenews.com/long-covid-blood-25724/
-
----------------------------------------
-
-
-inquiline@union.place - #CDCsays wait until you're *peak contagious* to end isolation:
-https://www.health.com/covid-test-timing-symptoms-8348633
-
-#CovidIsNotOver
-
----------------------------------------
-
-https://toot.aquilenet.fr/@arra/112067078268904793
-arra@toot.aquilenet.fr - Bulletin de veille hebdomadaire : études scientifiques et articles sur le Covid et  le Covid long
-
-https://www.medpagetoday.com/rheumatology/generalrheumatology/109000
-et
-https://www.acpjournals.org/doi/10.7326/M23-1831
-Étude observationnelle sur 10M de japonais.e.s et 10M de coréen.ne.s ; hausse de 80% des risques de développement de maladies auto-immunes après une infection covid (contre moins de 20% après une grippe)
-voir aussi :
-https://twitter.com/chantz_y/status/1765837555390660778
-2’ vidéo en Anglais, sur le covid comme augmentateur de risque de développer des maladies auto-immunes
-
-1/13
 
 ----------------------------------------------
 
