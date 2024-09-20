@@ -136,6 +136,14 @@ Le risque d'apparition d'une nouvelle démence après un cas de Covid chez les a
 
 > https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4716751 (preprint)
 
+2 importantes études de cohortes prospectives sur les déficits cognitifs liés au Long Covid viennent d'être publiées. Le chercheur et médecin Eric Topol les résume :
+
+> https://erictopol.substack.com/p/long-covid-and-cognitive-deficits
+
+Un nombre croissante d'études nous montrent que le COVID a un impact conséquent sur le cerveau, y compris sur le QI.
+
+> https://theconversation.com/mounting-research-shows-that-covid-19-leaves-its-mark-on-the-brain-including-with-significant-drops-in-iq-scores-224216
+
 </details>
 
 #### Effets sur le système cardiovasculaire
@@ -365,15 +373,28 @@ Une interview de médecin couvrant correctement et clairement la plupart des suj
 
 > https://cabrioles.substack.com/p/travailler-sur-le-covid-long-ma-appris
 
-Article du New York Time article : Is it dangerous to keep getting COVID ?
+Article du New York Time article : quel est le risque d'infections répétées au covid-19 ?
 
 > https://time.com/6553340/covid-19-reinfection-risk/
+
+</details>
+
+## COVID et politique
+<details> > <summary> En savoir plus </summary>
+
+  Why Democrats should do more on COVID
+  
+  > https://newrepublic.com/article/177849/biden-democrats-covid-pandemic-2024
 
 </details>
 
 # Pour en savoir plus
 -------------------------------------------------------------------------------------------------------------------------
 Une formidable recension des connaissances sur le COVID, régulièrement mise à jour, en Français, faite avec rigueur par une universitaire : https://intempestive.net/autodefensesanitaire-fr#transmission
+
+--------
+Le site de l'Association de Réduction des Risques Aéroportés 
+https://associationarra.wordpress.com/
 
 --------
 Une revue d'actualités sur le COVID, par l'autrice américaine Violet Blue (en anglais) : https://www.patreon.com/collection/1160?view=expanded
@@ -408,27 +429,7 @@ EN COURS DE COMPILATION : ->>
 ------------------------------------
 
 
-
------------------------------------
-
-luckytran@med-mastodon.com - Great piece on why Dems should do more on COVID.
-
-"This didn’t have to be an all-or-nothing choice. By framing Covid precautions as either “lockdown” or “a free for all,” the Biden administration has missed an opportunity to better protect its citizens & send clearer messages around Covid & the risk of long Covid, & promote the kind of commonsense mitigations that create no significant disruptions to “normal” life. With the 2024 election coming up, it must do better."
-
-https://newrepublic.com/article/177849/biden-democrats-covid-pandemic-2024
-
--------------------------------------
-cbarbermd@med-mastodon.com - Young, old, vax'd or unvax'd, every reinfection (mild or severe) places one at risk of developing long Covid issues that may last years. These may include cognitive issues, strokes 🧠 , heart ❤️ attacks, arrhythmias, brain fog, muscle weakness, fatigue, dizziness and the list goes on. Do your best to avoid reinfection with masking, good ventilation, etc…bc we don't have a cure, yet.
-
-“I wish we lived in a world where getting repeat infections doesn’t matter,"
-http://tinyurl.com/2p8p2hhf
-
---------------------------------------
-
-erictopol@mstdn.social - 2 important large prospective cohort studies of cognitive deficits with Long Covid were just published. I reviewed them in a new Ground Truths post
-
-https://erictopol.substack.com/p/long-covid-and-cognitive-deficits
-
+erictopol@mstdn.social - 
 ---------------------------------------
 
 JiminyPanoz - Un nombre conséquent d'études nous montrent que le COVID a un impact conséquent sur le cerveau, et que les conséquences pourraient être autant individuelles que collectives.
