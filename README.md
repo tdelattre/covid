@@ -232,12 +232,17 @@ Le microbiome intestinal semble être un facteur permettant de prédire le risqu
   ### Comment le COVID se transmet et s'attrape
   <details> > <summary> En savoir plus </summary> 
 Le COVID se transmet en respirant l'air contaminé par une autre personne. Il suffit que celle-ci respire dans la même pièce que vous. C'est encore pire si elle tousse, parle, chante, ou pratique un exercice physique (tout ce qui augmente l'activité respiratoire) mais la respiration suffit.
+
+> https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)00869-2/fulltext?ref=vc.ru
 > https://www.bmj.com/content/378/bmj.o1929
+> https://onlinelibrary.wiley.com/doi/full/10.1111/joim.13326
+> https://academic.oup.com/cid/article/74/10/1722/6343417
 
 
 Ferretti et al. étudient la corrélation entre la quantité de temps passé avec une personne infectée, en fonction des situations (famille, travail) avec la probabilité de développer infection. Un score à haut risque résulte de la vie dans le même foyer qu'une personne infectieuse. Une brève rencontre à une distance de 2 mètres pendant 15 minutes, le seuil de contact «pertinent» défini dans la recherche manuelle des contacts pendant la pandémie de COVID-19 dans la plupart des pays, aboutit à un faible score de risque.
     
 > https://www.nature.com/articles/d41586-023-04063-6
+> https://www.annualreviews.org/content/journals/10.1146/annurev-fluid-060220-113712
 
 «La contagiosité des aérosols de SRAS-CoV-2 exhalés est suffisante pour transmettre le covid-19 en quelques minutes» «Ce temps peut être aussi court que 6 min lorsqu'un individu hautement infectieux pénètre dans la pièce ou seulement 1 min si la personne infectée a déjà été dans la pièce suffisamment longtemps pour que la concentration de virus dans l'air atteigne la saturation.»
 
@@ -299,6 +304,9 @@ Une revue de la littérature révèle de nombreuses études observationnelles de
 Des données robustes étayent l'utilisation de masques faciaux dans les lieux partagés pour réduire la transmission du SARS-CoV-2 et devraient éclairer les réponses futures aux épidémies et pandémies causées par les virus respiratoires.
 
 > https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2811136
+
+Revue systématique sur l'efficacité des masques (ils sont efficaces, les N95/FFP2 sou supérieurs ont à prévilégier, mais les masques n'épargnent pas de pratiquer les autres mesures de prévention.
+> https://www.ingentaconnect.com/content/ben/iddt/2023/00000023/00000008/art00004
 
 
 #### Filtration et renouvellement de l'air
@@ -365,6 +373,9 @@ Article du New York Time article : Is it dangerous to keep getting COVID ?
 
 # Pour en savoir plus
 -------------------------------------------------------------------------------------------------------------------------
+Une formidable recension des connaissances sur le COVID, régulièrement mise à jour, en Français, faite avec rigueur par une universitaire : https://intempestive.net/autodefensesanitaire-fr#transmission
+
+--------
 Une revue d'actualités sur le COVID, par l'autrice américaine Violet Blue (en anglais) : https://www.patreon.com/collection/1160?view=expanded
 
 --------
@@ -512,6 +523,7 @@ https://virus.sucks/pluslife_en/
 https://web.archive.org/web/20231017215248/https://www.fda.gov/media/172392/download
 https://clinicaltrials.gov/study/NCT06141824
 
+https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2022.976423/full
 
 
 
