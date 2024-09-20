@@ -27,7 +27,7 @@ Le COVID est une maladie systémique, 45% plus dangereuse que la grippe, qui se 
 ### Effets sur la santé
 <details> > <summary> En savoir plus </summary> 
 
-#### Mortalité directe (morts "du COVID")
+#### -------- Mortalité directe (morts "du COVID")
 <details> > <summary> En savoir plus </summary>
 Le COVID (tous variants, tous statuts vaccinaux) a un taux de léthalité directe de 8 à 9% supérieur à celui de la grippe. Ce taux de léthalité directe ne prend pas en compte les effets secondaires, qui sont nombreux et fréquents (cf. plus bas)
 
@@ -35,7 +35,7 @@ Le COVID (tous variants, tous statuts vaccinaux) a un taux de léthalité direct
 
 </details>
 
-#### Mortalité indirecte (morts "avec le COVID")
+#### -------- Mortalité indirecte (morts "avec le COVID")
 <details> > <summary> En savoir plus </summary>
 
   Les excès de décès "de cause naturelle" observés aux USA seraient en grande partie liés au COVID. Une nouvelle étude fournit des données les plus convaincantes à ce jour pour suggérer que les taux de mortalité excédentaires dus à des maladies chroniques et à d'autres causes naturelles sont en fait dus aux infections par COVID-19.
@@ -54,7 +54,7 @@ Les survivants d'une forme grave de COVID-19 ont deux fois et demie plus de risq
 
 </details>
 
-#### Le COVID est une maladie systémique, affectant tous les organes
+#### -------- Le COVID est une maladie systémique, affectant tous les organes
 <details> > <summary> En savoir plus </summary> 
 Sur 94 indices de santé sélectionnés par le CDC, le COVID en affecte 64 (contre 6 pour la grippe).
 Tous les systèmes d'organes ont plus de chance d'être affectés par le COVID que par la grippe (à l'exception du système pulmonaire, plus affecté par la grippe).
@@ -74,7 +74,7 @@ Il a ajouté que les résultats de l'étude soulignent que «COVID-19 est vraime
 
 </details>
 
-#### Durée de persistence des symptômes, "COVID long"
+#### -------- Durée de persistence des symptômes, "COVID long"
 
 <details> > <summary> En savoir plus </summary> 
 Le COVID a des effets plus importants sur la santé dans la phase post-aigüe que dans la phase aigüe, comme c'est d'ailleur le cas de la grippe.
@@ -118,7 +118,7 @@ Le virus persiste dans le sang des années après l'infection. "Le SARS-CoV-2, l
 
 </details>
 
-#### Effets sur le cerveau et les capacités intellectuelles
+#### -------- Effets sur le cerveau et les capacités intellectuelles
 <details> > <summary> En savoir plus </summary> 
 
 Une infection par le SARS-CoV-2 augmente le risque de maladie neurodégénérative, et devrait être considéré comme un facteur de risque de la maladie d'Alzheimer, bien que la distinction entre cause et accelération de la maladie manque encore de clarté
@@ -149,7 +149,7 @@ Un nombre croissante d'études nous montrent que le COVID a un impact conséquen
 
 </details>
 
-#### Effets sur le système cardiovasculaire
+#### -------- Effets sur le système cardiovasculaire
 <details> > <summary> En savoir plus </summary> 
 
 De vastes études de suivi montrent que les personnes atteintes de COVID ont vu augmenter leur risque de complications cardiaques, y compris les crises cardiaques, les accidents vasculaires cérébraux et les arythmies. Ceux-ci peuvent survenir même chez les personnes présentant des symptômes légers ou chez les personnes jeunes et actives.
@@ -157,7 +157,7 @@ https://www.heartandstroke.ca/articles/coronavirus-heart-disease-and-stroke
 
 </details>
 
-#### Effets sur le système immunitaire
+#### -------- Effets sur le système immunitaire
 <details> > <summary> En savoir plus </summary> 
 
 La COVID-19 provoque le renouvellement et le vieillissement des cellules immunitaires responsables de la réponse à d’autres agents pathogènes. Ces cellules ont une capacité de renouvellement limitée, qui s'épuise lorsqu'elle est utilisée pour générer des cellules de lutte contre les maladies. Le COVID-19 active largement ces cellules et donc les vieillit. Les cellules T naives sont relativement indifférenciées, et la stimulation les amènera plus rapidement à la différenciation terminale et réduira en même temps leur capacité prolifative. Des études suggèrent également que le SRAS-COV-2 provoque une apoptose cellulaire (mort cellulaire programmée) de certains lymphocytes T dans le système immunitaire.
@@ -201,7 +201,7 @@ Une vidéo très pédagogique couvrant ces deux études :
 </details>
 
 
-#### Effets sur le système digestif
+#### -------- Effets sur le système digestif
 <details> > <summary> En savoir plus </summary> 
 
 Un essai randomisé, en double aveugle, contrôle versus placebo, montre que moduler le microbiome intestinal est efficace pour soulager les symptômes du Covid Long.
@@ -214,7 +214,7 @@ Le microbiome intestinal semble être un facteur permettant de prédire le risqu
 </details>
 
 
-#### Autres effets
+#### -------- Autres effets
 <details> > <summary> En savoir plus </summary> 
   
 Le Covid provoque des naissances prématurées (< 32 semaines de gestation). La vaccination prévient cet effet, apparemment de manière spectaculaire
