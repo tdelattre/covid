@@ -6,7 +6,7 @@ Le COVID est une maladie systémique, 45% plus dangereuse que la grippe, qui se 
 
 > [sources détaillées à retrouver dans les chapitres en dessous]
 
-## Les dangers du COVID
+## 1 - Les dangers du COVID
 
   
   ### Contagiosité
@@ -222,7 +222,7 @@ Le microbiome intestinal semble être un facteur permettant de prédire le risqu
 
 </details>
 
-## Où en est la pandémie de COVID ?
+## 2 - Où en est la pandémie de COVID ?
 <details> > <summary> En savoir plus </summary> 
 
   En France, l'évolution de la pandémie est suivie via l'analyse de la présence de virus dans les eaux usées. Ces résultats peuvent être consultés en "temps réel" (par pas d'une semaine) ici :
@@ -235,7 +235,7 @@ Le microbiome intestinal semble être un facteur permettant de prédire le risqu
 
 </details>
 
-## Modes de transmission du COVID et méthodes de prévention
+## 3 - Modes de transmission du COVID et méthodes de prévention
 <details> > <summary> En savoir plus </summary> 
 
   ### Comment le COVID se transmet et s'attrape
@@ -358,7 +358,7 @@ Une réflexion des autorités américaines sur l'amélioration de l'aération da
 </details>
 
 
-## Couverture journalistique de la pandémie
+## 4 - Couverture journalistique de la pandémie
 <details> > <summary> En savoir plus </summary> 
   
 La couverture journalistique globale du COVID est au mieux, extrèmement partielle et erronée, et dans l'ensemble, positivement mensongère
@@ -380,7 +380,7 @@ Article du New York Time article : quel est le risque d'infections répétées a
 
 </details>
 
-## COVID et politique
+## 5 - COVID et politique
 <details> > <summary> En savoir plus </summary>
 
   Why Democrats should do more on COVID
