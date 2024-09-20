@@ -147,6 +147,14 @@ Un nombre croissante d'études nous montrent que le COVID a un impact conséquen
 
 > https://theconversation.com/mounting-research-shows-that-covid-19-leaves-its-mark-on-the-brain-including-with-significant-drops-in-iq-scores-224216
 
+Photo d'une "explosion de neurone" attribuée à une infection su Sars-Cov2
+
+> https://www.health.com/covid-test-timing-symptoms-8348633
+
+Une vaste étude sur le Covid long en Corée du Sud et au Japon montre une augmentation prononcée du syndrome de Guillain-Barré, du déficit cognitif, de l'insomnie, des troubles anxieux, de l'encéphalite, de l'accident vasculaire cérébral ischémique et des troubles de l'humeur. Réduit par la vaccination.
+
+> https://nature.com/articles/s41562-024-01895-8
+
 </details>
 
 #### -------- Effets sur le système cardiovasculaire
@@ -247,6 +255,11 @@ Le microbiome intestinal semble être un facteur permettant de prédire le risqu
   Contrairement à la croyance commune, l'évolution du virus va vers davantage de dangerosité et de contagiosité. 
 
   > https://www.cell.com/action/showPdf?pii=S0092-8674%2823%2901400-9
+
+Le SARS-CoV-2 n'est pas à court d'espace évolutif. L'évolution des variants ne ralentit pas. L'apparition de mutations permettant l'échappement immunitaire est toujours aussi probable. 
+
+> https://threadreaderapp.com/thread/1801997622376354200.html
+> https://media.zeroes.ca/media_attachments/files/112/624/453/362/925/196/original/d09a4c8743364ad1.png
 
 </details>
 
@@ -361,6 +374,10 @@ Une réflexion des autorités américaines sur l'amélioration de l'aération da
 
 > https://www.usgbc.org/articles/optimizing-school-efficiency-and-iaq-through-commissioning
 
+Il existe des standards de conception des bâtiments accueillant du public, et de leur système de ventilation, visant à diminuer les risques de contamination virale :
+
+> https://www.ashrae.org/technical-resources/bookstore/ashrae-standard-241-control-of-infectious-aerosols
+
 #### Evitement des personnes contagieuses
 
 « 40 % des enfants sont encore infectieux après une résolution des symptômes » « Ces résultats encouragent la prise en compte des mesures de prévention et de contrôle des infections pendant une période allant jusqu'à 10 jours après l'apparition des symptômes afin de réduire le risque de transmission résiduel autour des populations vulnérables ou immunodéprimées »
@@ -370,6 +387,15 @@ Une réflexion des autorités américaines sur l'amélioration de l'aération da
 Une étude indiquant quand il est le plus efficace de se tester, l'évolution temporelle de la charge virale après l'apparition des premiers symptômes, et les stratégies d'isolement optimales :
 
 > https://www.health.com/covid-test-timing-symptoms-8348633
+
+Comment bien interpréter un test négatif (en résumé, un autotest négatif n'est pas fiable, tout test positif est fiable à 99%)
+
+> https://toot.aquilenet.fr/@arra/112579767243232787
+> https://x.com/clean_air_club_/status/1796017532693827791
+> https://virus.sucks/pluslife_en/
+> https://web.archive.org/web/20231017215248/https://www.fda.gov/media/172392/download
+> https://clinicaltrials.gov/study/NCT06141824
+> https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2022.976423/full
 
 </details>
 
@@ -442,64 +468,6 @@ Campagne de prévention contre le Covid de l'association Winslow Santé Publique
 https://www.youtube.com/watch?v=iH3Ocv3Gt80
 
 -----------------------------------
-
-
-EN COURS DE COMPILATION : ->>
-------------------------------------
-
-
-----------------------------------------------
-
-chargrille@progressives.social - "Those who already have #LongCovid may experience a resurgence or worsening of symptoms with new infections. One study found that 80% of patients reported their symptoms were more severe with reinfection."
-
-CDC telling us to go into public while still testing positive for #SARSCOV2 is "very irresponsible advice, & it just doesn’t follow the science...we rely on government officials to interpret & present science to us...& right now, they’re failing in their responsibility to us,” said Putrino
-https://progressives.social/@chargrille/112109885198162922
-
-
-
-flyspinner@mastodon.nz - Not 👏Brain 👏Fog👏
-This is a photo of a neuron exploding with #SARSCoV2.
-This is Brain Damage.
-
-https://mastodon.nz/@flyspinner/112692709578401738
-
-
-erictopol@mstdn.social - A huge study of #LongCovid in South Korea and Japan
-shows a pronounced increase of Guillain-Barré syndrome, cognitive deficit, insomnia, anxiety disorder, encephalitis, ischemic stroke and mood disorder. Reduced by vaccination
-https://nature.com/articles/s41562-024-01895-8
-
-
-EricCarroll@zeroes.ca - There is no sign of #SarsCoV2 mutation rate slowing down.
-
-The march upwards in Immune Escape & ACE2 binding strength continues.
-
-There is no sign #SARS2 is running out of evolutionary space.
-
-🧵@TRyanGregory
- https://threadreaderapp.com/thread/1801997622376354200.html
- ![alt text]([http://url/to/img.png]
- 
- (https://media.zeroes.ca/media_attachments/files/112/624/453/362/925/196/original/d09a4c8743364ad1.png))
-
- https://zeroes.ca/@EricCarroll/112624458802300718
-
- --------------------------------------------------------------------------------------------
-
- énorme compilation de données de l'ARRA  https://toot.aquilenet.fr/@arra/112579767243232787
-
- arra@toot.aquilenet.fr - Bulletin de veille samedi 8 juin 2024
-
-Partie 1 : Réduction des risques, masques, vaccins, qualité de l’air
-Un point sur les tests :
-Comparatif de l'efficacité des types de tests aux USA. Un test antigénique a 28% de fiabilité. Un 2e AG après 48h a 63% de fiabilité. Les tests moléculaires présentent entre 89% (Lucira) et 98% (PlusLife) de fiabilité.
-https://x.com/clean_air_club_/status/1796017532693827791
-Sources :
-https://virus.sucks/pluslife_en/
-https://web.archive.org/web/20231017215248/https://www.fda.gov/media/172392/download
-https://clinicaltrials.gov/study/NCT06141824
-
-https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2022.976423/full
-
 
 
 
