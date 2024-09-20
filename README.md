@@ -247,6 +247,10 @@ Ferretti et al. étudient la corrélation entre la quantité de temps passé ave
 
 ### Méthodes de prévention
 <details> > <summary> En savoir plus </summary> 
+
+**Résumé : ** Les seules méthodes efficaces pour éviter la contagion collective sont les masques (FPP2 ou plus), le renouvellement ou la filtration de l'air intérieur, l'isolement des contaminé.es. Toutes ces mesures permettent également la protection individuelle, à laquelle il faut évidemment ajouter la vaccination.
+
+**Sources portant sur plusieurs mesures de protection : **
 Un outil permettant de calculer le risque de contagion pour un lieu ou un évènement donné, en fonction des mesures appliquées. Outil développé par un panel international d'experts mandatés par l'OMS.
   
 > https://partnersplatform.who.int/aria
@@ -256,10 +260,10 @@ Guide du Collectif Casper pour la réduction des risques de transmission
 
 > https://academia.hypotheses.org/47539
 
-
 « 40 % des enfants sont encore infectieux après une résolution des symptômes » « Ces résultats encouragent la prise en compte des mesures de prévention et de contrôle des infections pendant une période allant jusqu'à 10 jours après l'apparition des symptômes afin de réduire le risque de transmission résiduel autour des populations vulnérables ou immunodéprimées »
 
 > https://www.cidrap.umn.edu/covid-19/covid-study-40-children-still-infectious-after-symptom-resolution
+
 
 #### Vaccination
 
@@ -300,6 +304,13 @@ Pour choisir un filtre, si un compromis est nécessaire, mieux vaut viser un gra
 
 > https://www.youtube.com/watch?v=bzFJNiZX0us
 
+un critère important pour éviter les infections dans les locaux partagés est d'atteindre un objectif spécifique de renouvellement de l'air par heure (ACH). Une cible efficace semble être 6 à 12 ACH.
+
+> https://airsupportproject.com/strive-for-6-to-12-ach/
+
+Etude de l'interaction complexe entre le temps, la densité virale dans l'air et la filtration, en examinant comment la durée d'exposition et la concentration des particules virales influencent l'efficacité des mesures préventives. On voit comme les masques et la filtration modifient les risques.
+
+> https://airsupportproject.com/interplay-of-time-viral-density-and-filtration/
 
 "That a pure atmosphere is necessary to preserve health I need not attempt to prove by reasoning; it is a thruth universally known and acknowledged." Thomas Tredgold in 1824.
 Depuis 200 ans, des calculs ont été effectués pour définir la ventilation nécessaire dans les locaux partagés.
@@ -314,6 +325,7 @@ Un programme du gouvernement Néo-Zélandais, visant à améliorer l'environneme
 Une réflexion des autorités américaines sur l'amélioration de l'aération dans les bâtiments publics et en particulier les écoles
 
 > https://www.usgbc.org/articles/optimizing-school-efficiency-and-iaq-through-commissioning
+
 
 </details>
 
