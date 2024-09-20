@@ -412,6 +412,21 @@ Comment bien interpréter un test négatif (en résumé, un autotest négatif n'
 > https://clinicaltrials.gov/study/NCT06141824
 > https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2022.976423/full
 
+3 spots publicitaires du NHS (Système de santé du Royaume Uni) sur la prévention de la contamination par l'air au COVID-19
+
+> https://www.youtube.com/watch?v=HoQdh0WpeFA
+> https://www.youtube.com/watch?v=pyzQobylHkc
+> https://www.youtube.com/watch?v=jglK_W5t7yM
+
+Des infographies du journal El Pais ("Le Monde" espagnol), en anglais et espagnol : 
+
+> https://elpais.com/especiales/coronavirus-covid-19/a-room-a-bar-and-a-class-how-the-coronavirus-is-spread-through-the-air/
+
+Podcast du professeur Eric Topol couvre de nombreux aspects sur la qualité de l'air intérieur et les manières d'éviter qu'elle affecte notre santé (y compris les bénéfices d'évitements des polluants)
+Disponible en video, audio, et transcription écrite.
+
+> https://erictopol.substack.com/p/joseph-allen-the-pivotal-importance
+
 </details>
 
 </details>
