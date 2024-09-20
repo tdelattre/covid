@@ -119,6 +119,20 @@ Le virus persiste dans le sang des années après l'infection. "Le SARS-CoV-2, l
 
 </details>
 
+#### -------- Conséquences d'infections répétées
+<details> > <summary> En savoir plus </summary> 
+
+Des statistiques sur la population Canadienne révèlent que le pourcentage d'adultes présentant des symptômes à long terme augmente avec le nombre d'infections à la COVID-19 (15% pour une infection, 35 à 40% pour 3 infections).
+Dre Mona Nemer, conseillère scientifique en chef du Canada : "Même les cas bénins d'infection par le SRAS-CoV-2 risquent de se transformer en covid longue, et ces résultats suggèrent que la menace augmente en cas d'infections multiples. 
+
+> https://www150.statcan.gc.ca/n1/pub/75-006-x/2023001/article/00015-fra.htm
+
+Article du New York Time article : quel est le risque d'infections répétées au covid-19 ?
+
+> https://time.com/6553340/covid-19-reinfection-risk/
+</details>
+
+
 #### -------- Effets sur le cerveau et les capacités intellectuelles
 <details> > <summary> En savoir plus </summary> 
 
@@ -419,9 +433,7 @@ Une interview de médecin couvrant correctement et clairement la plupart des suj
 
 > https://cabrioles.substack.com/p/travailler-sur-le-covid-long-ma-appris
 
-Article du New York Time article : quel est le risque d'infections répétées au covid-19 ?
 
-> https://time.com/6553340/covid-19-reinfection-risk/
 
 </details>
 
