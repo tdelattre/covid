@@ -126,6 +126,10 @@ Le virus persiste dans le sang des années après l'infection. "Le SARS-CoV-2, l
 
 > https://time.com/6213103/us-government-long-covid-response/
 
+Revue de synthèse de 2023 sur le COVID Long, effets et mécanismes : 
+
+> https://www.nature.com/articles/s41579-022-00846-2
+
 </details>
 
 #### -------- Conséquences d'infections répétées
@@ -251,6 +255,17 @@ Chez ~100 survivants non vaccinés du COVID19 en 2020, les chercheurs ont consta
 
 > https://www.cidrap.umn.edu/covid-19/study-covid-can-trigger-changes-immune-system-may-underlie-persistent-symptoms
 > https://onlinelibrary.wiley.com/doi/10.1111/all.16210
+
+"Certaines conséquences à long terme du COVID-19 pourraient être liées aux dommages causés au système immunitaire et à la maturation et/ou l'émigration apparemment réduites des cellules immunitaires de la moelle osseuse ».
+
+> https://www.news-medical.net/news/20240715/COVID-19-leads-to-long-term-changes-in-the-immune-system-study-shows.aspx
+
+Diminution différentielle des taux d'anticorps spécifiques au SRAS-CoV-2, des cellules immunitaires innées et adaptatives, et changement des taux de cytokines sériques Th1/inflammatoires vers Th2, longtemps après la première injection de COVID-19.
+Le COVID19 entraîne une réduction à long terme des cellules immunitaires innées et adaptatives, associé à un profil de cytokines sériques Th2. Ceci pourrait fournir un mécanisme immunologique pour les séquelles à long terme après COVID-19.
+
+> https://onlinelibrary.wiley.com/doi/10.1111/all.16210
+
+
 
 </details>
 
@@ -433,6 +448,10 @@ La mauvaise qualité de l'air et une ventilation insuffisante ont largement cont
 
 > https://www.science.org/doi/10.1126/science.adp2241
 
+Utilité de la mesure du CO2 comme proxi du risque de contagion, avec et sans masque :
+
+> https://pubmed.ncbi.nlm.nih.gov/37286835/
+
 #### Evitement des personnes contagieuses
 
 « 40 % des enfants sont encore infectieux après une résolution des symptômes » « Ces résultats encouragent la prise en compte des mesures de prévention et de contrôle des infections pendant une période allant jusqu'à 10 jours après l'apparition des symptômes afin de réduire le risque de transmission résiduel autour des populations vulnérables ou immunodéprimées »
@@ -549,6 +568,11 @@ https://www.youtube.com/watch?v=iH3Ocv3Gt80
 
 Une revue de synthèse scientifique de l'étendue des effets du COVID connus en juillet 22024.
 https://www.degruyter.com/document/doi/10.1515/mr-2024-0030/html#j_mr-2024-0030_ref_007
+
+--------
+
+Une synthèse en français par ActUp Paris.
+https://www.actupparis.org/2024/07/15/65-millions-de-covid-long-et-ca-continue-un-apercu-de-la-recherche-covid-apres-4-ans-et-demi-de-pandemie/
 
 --------
 
