@@ -73,6 +73,10 @@ Il a ajouté que les résultats de l'étude soulignent que «COVID-19 est vraime
 
 > Source: https://www.wsws.org/en/articles/2023/12/18/covi-d18.html
 
+"Le COVID long, tel qu'il est actuellement défini par l'Organisation mondiale de la santé (OMS) et d'autres autorités, est un état symptomatique qui affecte environ 10 à 30 % des patients non hospitalisés après une seule infection. Cependant, le COVID-19 peut également provoquer des lésions organiques chez des personnes ne présentant pas de symptômes, qui ne relèveraient pas de la définition actuelle du COVID long. Ces lésions organiques, qu'elles soient symptomatiques ou non, peuvent avoir diverses conséquences sur la santé, telles que des crises cardiaques et des accidents vasculaires cérébraux. Compte tenu de ces observations, il est nécessaire soit d'élargir la définition du COVID long pour y inclure les lésions organiques, soit de reconnaître les lésions organiques induites par le COVID-19 comme une affection distincte affectant de nombreuses personnes symptomatiques et asymptomatiques après des infections par le COVID-19. Il est important de tenir compte du fait que de nombreux effets néfastes connus sur la santé, y compris les maladies cardiaques et les cancers, peuvent être asymptomatiques jusqu'à ce que les seuils de nocivité soient atteints. Les tests permettent d'identifier beaucoup plus d'affections que celles qui sont reconnues par les symptômes déclarés. Il est donc important de reconnaître de la même manière que si les symptômes de Long COVID sont associés à des lésions d'organes, de nombreuses personnes présentent des lésions d'organes sans manifester de symptômes reconnus et d'inclure ces dommages dans la caractérisation de COVID-19 et dans le suivi des personnes après des infections par COVID-19."
+
+> https://www.degruyter.com/document/doi/10.1515/mr-2024-0030/html
+
 </details>
 
 #### -------- Durée de persistence des symptômes, "COVID long"
@@ -191,6 +195,12 @@ Après une infection, le COVID laisse derrière lui des substances chimiques qui
 De vastes études de suivi montrent que les personnes atteintes de COVID ont vu augmenter leur risque de complications cardiaques, y compris les crises cardiaques, les accidents vasculaires cérébraux et les arythmies. Ceux-ci peuvent survenir même chez les personnes présentant des symptômes légers ou chez les personnes jeunes et actives.
 https://www.heartandstroke.ca/articles/coronavirus-heart-disease-and-stroke
 
+La fibrine « se lie à la protéine de pointe du SRAS-COV-2 », formant des caillots qui « entraînent une thrombo-inflammation systémique et une neuropathologie », et ce, « indépendamment d'une infection active ».
+
+> https://www.nature.com/articles/s41586-024-07873-4
+> Explications : https://readwise.io/reader/shared/01j6e493r53anare7prqh9e6r2/
+
+
 </details>
 
 #### -------- Effets sur le système immunitaire
@@ -232,7 +242,10 @@ Une vidéo très pédagogique couvrant ces deux études :
 
 > https://twitter.com/chantz_y/status/1765837555390660778
 
+Une discussion des points communs entre COVID et SIDA. 
+« Le sida causé par le VIH met environ 10 à 15 ans à se manifester, l'infection initiale étant généralement à peine perceptible... Dans le cas du SRAS-CoV-2, l'immunodéficience se développe dans les semaines et les mois qui suivent l'infection... Il n'existe aucun « remède » aux dommages causés par le SRAS-CoV-2, y compris le dérèglement immunitaire. »
 
+> https://whn.global/public-service-announcement/
 
 </details>
 
@@ -246,6 +259,10 @@ Un essai randomisé, en double aveugle, contrôle versus placebo, montre que mod
 
 Le microbiome intestinal semble être un facteur permettant de prédire le risque de COVID long
 > [https://www.cell.com/cell-host-microbe/abstract/S1931-3128(24)00122-7 ](https://www.cell.com/cell-host-microbe/abstract/S1931-3128(24)00122-7)
+
+« Il existe des preuves considérables et de plus en plus nombreuses que les complications gastro-intestinales du COVID long sont fréquentes. Dans une vaste méta-analyse portant sur 14 études et incluant 296 487 patients, des symptômes gastro-intestinaux étaient présents chez 22 % des personnes souffrant de COVID long »
+
+> https://www.degruyter.com/document/doi/10.1515/mr-2024-0030/html
 
 </details>
 
@@ -518,7 +535,12 @@ https://publications.aap.org/pediatrics/article/doi/10.1542/peds.2023-062570/196
 Campagne de prévention contre le Covid de l'association Winslow Santé Publique
 https://www.youtube.com/watch?v=iH3Ocv3Gt80
 
------------------------------------
+--------
+
+Une revue de synthèse scientifique de l'étendue des effets du COVID connus en juillet 22024.
+https://www.degruyter.com/document/doi/10.1515/mr-2024-0030/html#j_mr-2024-0030_ref_007
+
+--------
 
 
 
