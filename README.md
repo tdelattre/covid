@@ -117,6 +117,11 @@ Le virus persiste dans le sang des années après l'infection. "Le SARS-CoV-2, l
 
 > https://neurosciencenews.com/long-covid-blood-25724/
 
+« Si des millions de personnes sont infectées, des millions de personnes seront iaffectées par le COVID Long . Il s'agit d'un problème national permanent et grave qui pèsera sur l'économie, sur le système d'assurance santé et qui sera tragique pour les gens ».
+-Dr Ezekiel Emanuel, oncologue, bioéthicien et professeur à l'université de Pennsylvanie.
+
+> https://time.com/6213103/us-government-long-covid-response/
+
 </details>
 
 #### -------- Conséquences d'infections répétées
@@ -169,6 +174,14 @@ Photo d'une "explosion de neurone" attribuée à une infection su Sars-Cov2
 Une vaste étude sur le Covid long en Corée du Sud et au Japon montre une augmentation prononcée du syndrome de Guillain-Barré, du déficit cognitif, de l'insomnie, des troubles anxieux, de l'encéphalite, de l'accident vasculaire cérébral ischémique et des troubles de l'humeur. Réduit par la vaccination.
 
 > https://nature.com/articles/s41562-024-01895-8
+
+Une nouvelle étude (controversée) démontre que les jeunes atteints d'un COVID19 léger présentent des lésions cérébrales persistantes. L'étude est controversée parce qu'elle a commencé avec des jeunes gens en bonne santé et les a ensuite inoculés (infectés) avec le COVID. L'objectif était de tester l'impact sur le cerveau. Tous les participants COVID+ présentaient une maladie légère ou asymptomatique. Bien qu'aucun n'ait fait état de plaintes subjectives persistantes, le groupe COVID+ « a obtenu de moins bons résultats sur une mesure de la cognition globale que les volontaires qui ne présentaient pas de charge virale soutenue. Ce déficit a persisté jusqu'à un an après l'inoculation... pour les cas infectés légers, toute normalisation des changements cognitifs observés est au mieux graduelle... Les domaines cognitifs les plus sensibles sont la mémoire immédiate et différée, ainsi que les fonctions exécutives ».
+
+> https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(24)00421-8/fulltext
+
+Après une infection, le COVID laisse derrière lui des substances chimiques qui peuvent persister dans l'organisme pendant au moins un an, réduisant ainsi la capacité du cerveau à réguler l'inflammation. C'est peut-être ce qui explique les brouillards cérébraux.
+
+> https://scitechdaily.com/the-invisible-damage-how-covid-rewires-our-brains/
 
 </details>
 
@@ -244,7 +257,7 @@ Le Covid provoque des naissances prématurées (< 32 semaines de gestation). La 
 
 > https://pnas.org/doi/epdf/10.1073/pnas.2311573120
 
-Une infection au SARS-CoV-2 pourrait-elle causer des cancers ? On estime que les infections virales sont responsavles de 15 à 20% des cas de cancer dans le monde. "Nous ne comprenons pas encore très bien ce virus, donc je ne peux que spéculer sur son influence sur le cancer en attendant les résultats de cette étude. Mais nous savons qu'il cause une inflammation chronique, ce qui crée une situation favorable à davantage de mutations qui s'accumulent dans différentes cellules, et celles qui prolifèrent peuvent devenir cancéreuses". Akiko Iwasaki, professeur à la Yale School of Medicine
+Une infection au SARS-CoV-2 pourrait-elle causer des cancers ? On estime que les infections virales en général sont responsables de 15 à 20% des cas de cancer dans le monde. "Nous ne comprenons pas encore très bien ce virus, donc je ne peux que spéculer sur son influence sur le cancer en attendant les résultats de cette étude. Mais nous savons qu'il cause une inflammation chronique, ce qui crée une situation favorable à davantage de mutations qui s'accumulent dans différentes cellules, et celles qui prolifèrent peuvent devenir cancéreuses". Akiko Iwasaki, professeur à la Yale School of Medicine
 
 > https://fortune.com/2023/11/23/inside-long-covids-war-body-researchers-trying-find-out-virus-potential-cancer-carolyn-barber/
 
@@ -460,6 +473,16 @@ Une interview de médecin couvrant correctement et clairement la plupart des suj
   > https://newrepublic.com/article/177849/biden-democrats-covid-pandemic-2024
 
 </details>
+
+## 6 - Psychologie de la pandémie
+<details> > <summary> En savoir plus </summary>
+  
+« Le déni est un mécanisme de défense puissant, généralement inconscient, qui protège les individus des réalités inconfortables ou pénibles. En refoulant des faits ou des expériences objectives - en particulier ceux qui provoquent la peur ou l'anxiété - les gens peuvent maintenir un sentiment de stabilité face à des menaces écrasantes ».
+
+> https://www.forbes.com/sites/robertpearl/2024/09/16/denial-the-hidden-link-connecting-mpox-covid-19-hivaids/
+
+</details>
+
 
 # Pour en savoir plus
 -------------------------------------------------------------------------------------------------------------------------
