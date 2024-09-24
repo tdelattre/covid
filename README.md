@@ -247,6 +247,11 @@ Une discussion des points communs entre COVID et SIDA.
 
 > https://whn.global/public-service-announcement/
 
+Chez ~100 survivants non vaccinés du COVID19 en 2020, les chercheurs ont constaté une baisse des cellules immunitaires et des anticorps du #SarsCoV2. Ils concluent qu'un système immunitaire endommagé peut expliquer certaines manifestations du Covid Long.
+
+> https://www.cidrap.umn.edu/covid-19/study-covid-can-trigger-changes-immune-system-may-underlie-persistent-symptoms
+> https://onlinelibrary.wiley.com/doi/10.1111/all.16210
+
 </details>
 
 
@@ -278,6 +283,9 @@ Une infection au SARS-CoV-2 pourrait-elle causer des cancers ? On estime que les
 
 > https://fortune.com/2023/11/23/inside-long-covids-war-body-researchers-trying-find-out-virus-potential-cancer-carolyn-barber/
 
+Comment Covid peut provoquer une hyperglycémie prolongée (diabète de type 2) et comment la vaccination protège
+
+> https://nature.com/articles/s41467-024-50339-4
 
 </details>
 
@@ -353,8 +361,6 @@ Guide du Collectif Casper pour la réduction des risques de transmission
 > https://academia.hypotheses.org/47539
 
 
-
-
 #### Vaccination
 
 La vaccination des enfants permet une protection modérée contre le le covid long (35 à 42%) 
@@ -422,6 +428,10 @@ Une réflexion des autorités américaines sur l'amélioration de l'aération da
 Il existe des standards de conception des bâtiments accueillant du public, et de leur système de ventilation, visant à diminuer les risques de contamination virale :
 
 > https://www.ashrae.org/technical-resources/bookstore/ashrae-standard-241-control-of-infectious-aerosols
+
+La mauvaise qualité de l'air et une ventilation insuffisante ont largement contribué à la propagation de Covid. Quelles leçons en tirer ?
+
+> https://www.science.org/doi/10.1126/science.adp2241
 
 #### Evitement des personnes contagieuses
 
