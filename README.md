@@ -576,6 +576,118 @@ https://www.actupparis.org/2024/07/15/65-millions-de-covid-long-et-ca-continue-u
 
 --------
 
+# Sources à compiler
+-------------------------------------------------------------------------------------------------------------------------
+ https://med-mastodon.com/@luckytran/113603146426352982 
+ uckytran@med-mastodon.com - New modeling study finds that if everyone in the United Kingdom had worn N95 or FFP2 masks from the start of the pandemic, the rate of COVID-19 transmission would have been 9 times lower
+
+  https://forall.social/@themaskerscomic/113194993535131158 
+  themaskerscomic@forall.social - Recent #Fauci interview:
+
+"We cannot apply the standard criteria of herd immunity-- It’s not applicable with SARS-CoV-2.... Because if you have a pathogen that keeps changing like the multiple variants of SARS, and if you have a duration of immunity that’s measured in months, the entire concept of herd immunity is no longer valid. That’s the point."
+https://www.paijournal.com/index.php/paijournal/article/view/754/800
+
+
+ https://aus.social/@DenisCOVIDinfoguy/113195050883871011 
+
+"A new study reveals that 12-18 months after hospitalization for COVID-19, patients show significant cognitive decline comparable to 20 years of aging."
+
+Source: https://neurosciencenews.com/cognition-covid-brain-aging-27675/
+
+Study: https://www.nature.com/articles/s41591-024-03309-8
+
+
+ https://forall.social/@themaskerscomic/113241072392706488 
+themaskerscomic@forall.social - #longcovidkids
+
+
+https://www.medscape.com/viewarticle/long-covid-rates-kids-revised-upward-what-know-2024a1000hzi?form=fpf
+20% of kids (ages 6-11) and 14% of teens met researchers' threshold for long COVID.
+
+Up to 5.8 million kids and teens have the disorder.
+
+Kids and teens also face higher risks for reinfection because they attend school and are constantly exposed to the virus.
+
+Risks for long COVID increase after acute COVID reinfection, even in vaccinated individuals. 
+
+
+ https://med-mastodon.com/@luckytran/113279395346476864 
+ luckytran@med-mastodon.com - New large study finds COVID may increase risk of heart attacks and strokes for three years after infection.
+
+Unlike other infections, the elevated heart risks from infection did not appear to diminish over time, a striking finding that the researchers say is "unique to COVID."
+
+
+ https://forall.social/@WinslowSP/113310878787984853 
+WinslowSP@forall.social - "Une pandémie ne se termine pas juste parce qu’on en a marre" - Christian LEHMANN, médecin et écrivain, auteur de « Tenir la ligne »
+"De la démobilisation pandémique au covidactivisme"
+#ConfWinslowCovid24
+https://youtu.be/xIah1BxiHaY
+
+ https://mastodon.social/@blogentreleslignesentrelesmots/113312158431357637 
+ blogentreleslignesentrelesmots@mastodon.social - L’OMS met en garde contre l’«amnésie collective» sur la Covid-19
+
+Notre « amnésie collective » concernant la gravité de la pandémie de Covid-19 ne doit pas nous empêcher de nous protéger et de protéger nos proches contre la propagation continue des maladies respiratoires, alors que l’hémisphère nord se prépare à l’hiver, a averti mercredi le bureau régional de l’Organisation mondiale de la Santé (OMS) pour l’Europe.
+
+https://entreleslignesentrelesmots.wordpress.com/2024/10/15/loms-met-en-garde-contre-lamnesie-collective-sur-la-covid-19/
+
+
+ https://mastodon.social/@violetblue/113325100900759605 
+violetblue@mastodon.social - New roundup:  https://www.patreon.com/posts/pandemic-roundup-114157962
+
+-UK XEC #Covid hospitalisations at “alarming” rate, cases ⬆️ 6th week
+
+-Medsafe NZ rejected Pfizer’s vax application
+
+-US: 54M cases in 2022 “unaccounted for in official records”
+
+-China #LongCovid “significant health crisis”
+
+-Brigham LC patients triple
+
+-Australia in-hospital infections 6 deaths/week
+
+-US: nasal vax “as early as 2027”
+
+-Acute Covid impairment “comparable to driving [drunk] or with seizure disorder”
+
+-Mount Sinai’s incredible new LC center
+
+
+
+ https://mastodon.social/@violetblue/113403903417686703 
+ violetblue@mastodon.social - New:
+
+- Japan COVID deaths 14 times that of flu after guidelines lifted
+- Factcheck: “Herd immunity” not possible with Covid
+- XEC 1/5 of UK cases; NHS advises 10-day isolation
+-Switzerland: "exploding" Long Covid cases in kids prompts government response
+- Biden's Covid was "last straw" for nomination
+
+More here: https://www.patreon.com/posts/pandemic-roundup-115042386
+
+ https://mastodon.social/@COVID19_DISEASE/113439470880850464 
+ COVID19_DISEASE@mastodon.social - N95 Masks Nearly Perfect at Blocking COVID, UMD Study Shows
+
+Researchers Found Even Lower-Performing Masks Were Protective
+
+Maskswork
+
+https://today.umd.edu/n95-masks-nearly-perfect-at-blocking-covid-umd-study-shows
+
+ https://aus.social/@DenisCOVIDinfoguy/113449863737274286 
+ DenisCOVIDinfoguy@aus.social - 🇺🇸US: 1 in 5 People Could Have Long COVID
+
+"The analysis suggests that nearly 23% of U.S. adults experience the symptoms of long COVID... That’s much higher than the 7% prevalence of long COVID that’s been suggested by other studies"
+
+Study: https://www.cell.com/med/fulltext/S2666-6340(24)00407-0
+
+Source: https://www.usnews.com/news/health-news/articles/2024-11-08/1-in-5-people-could-have-long-covid
+
+
+ https://forall.social/@AirSupportProject/113448380413881377 
+ AirSupportProject@forall.social - 🌬️ Happy \#WorldVentil8Day\! Check out our latest blog, "Clearing the Air: Engaging Officials for Better Indoor Air Quality," and learn how you can advocate for healthier indoor spaces\. Clean air is a human right\! 🌿✨
+
+
 
 
 
