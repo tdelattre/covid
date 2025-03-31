@@ -688,6 +688,22 @@ Source: https://www.usnews.com/news/health-news/articles/2024-11-08/1-in-5-peopl
  AirSupportProject@forall.social - 🌬️ Happy \#WorldVentil8Day\! Check out our latest blog, "Clearing the Air: Engaging Officials for Better Indoor Air Quality," and learn how you can advocate for healthier indoor spaces\. Clean air is a human right\! 🌿✨
 
 
+ https://piaille.fr/@intempestive/113482216477206665 
+ intempestive - En juin 2024, The Economist avait évalué le coût du #CovidLong en Grande Bretagne à 15,5 milliards de $ par an : https://impact.economist.com/perspectives/health/incomplete-picture-understanding-burden-long-covid
+Une analyse de données réelles dans le BMJ vient de l’estimer à 20 milliards de $ par an : https://bmjopen.bmj.com/content/14/11/e088538
+Pour la France, The Economist avait évalué le coût pour la France à 21 milliards de $ par an.
+Et pour le monde entier, à 1000 milliards de $ par an.
+#CovidIsNotOver 
+
+
+ https://piaille.fr/@intempestive/113514991739901252 
+ intempestive - « 17 diagrammes clés pour comprendre la pandémie de Covid-19 » : importante mise à jour sur le site de Our world in data : https://ourworldindata.org/key-charts-understand-covid-pandemic
+Le site reprend notamment sans paywall les estimations de mortalité cumulée de The Economist : 7 millions de morts officielles, 27 millions dans l’estimation moyenne faite avec intégration de la mortalité excédentaire (36 millions dans l’estimation haute, 19 dans la basse). 
+
+ttps://mastodon.social/@violetblue/113540045008641033
+violetblue@mastodon.social - New Goodreads pre-review for #Covid Safety Handbook, available this week: "The antidote to Covid-19 misinformation and the prescription for being as safe as possible from the virus and the havoc it brings." https://www.goodreads.com/review/show/7028578668
+
+
 
 
 
